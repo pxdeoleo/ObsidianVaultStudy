@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "514aac11c86b580c",
+    "type": "split",
+    "children": [
+      {
+        "id": "66a296bc8a92b440",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0466f2244a75afb1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bd0f6c4380e9c127",
+    "type": "split",
+    "children": [
+      {
+        "id": "952c03a3486ddd81",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26d7a53509c30f33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e991a4a50a3a2331",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0d8889754cb3d59c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b605d25fedc1cc34",
+    "type": "split",
+    "children": [
+      {
+        "id": "b5fe6d9383273b84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1f182f535e56509",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7db07d750d9be24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "395cbc94337088ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d27e97c1abf8f26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0466f2244a75afb1",
+  "lastOpenFiles": [
+    "Cisco AppDynamics 500-420 CAAPA/Untitled.md",
+    "Cisco AppDynamics 500-420 CAAPA/Untitled.canvas",
+    "Cisco AppDynamics 500-420 CAAPA/Exam Topics.md",
+    "Cisco AppDynamics 500-420 CAAPA/Topics.md",
+    "Cisco AppDynamics 500-420 CAAPA/Cisco AppDynamics Associate Performance Analyst v1.0 (500-420).md",
+    "Cisco AppDynamics 500-420 CAAPA/Welcome.md",
+    "Cisco AppDynamics 500-420 CAAPA",
+    "AppDynamics/AppDynamics.md",
+    "AppDynamics/Application Intelligence Platform.md",
+    "AppDynamics/Infrastructure Optimization.md",
+    "AppDynamics/Personas/Operations.md",
+    "AppDynamics/Business IQ Examples/User Journey.md",
+    "AppDynamics/Business IQ Examples/Segment Health.md",
+    "AppDynamics/Business IQ Examples/Business Health.md",
+    "AppDynamics/Personas/Development.md",
+    "AppDynamics/Untitled.canvas",
+    "AppDynamics/Library of Pain.md",
+    "AppDynamics/Millions of Metrics.md",
+    "2023-09-27.md",
+    "AppDynamics/Business IQ Examples/Business Journey.md",
+    "AppDynamics/Business IQ Examples/Experience Level Management (XLM).md",
+    "AppDynamics/Business IQ Examples/Release Validation.md",
+    "AppDynamics/Business IQ Examples",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "2023-09-21.md",
+    "AppDynamics/Personas",
+    "Operations.md",
+    "Development.md",
+    "AppDynamics/Cognition Engine.md",
+    "AppDynamics"
+  ]
+}
