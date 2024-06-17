@@ -3,7 +3,7 @@ The application is deployed locally within the customer's data center, and the d
 When an on-premises deployment is selected, the application servers and the Microsoft 
 
 SQL Server database are run in the customer's data center.
-Lifecycle Services is used to manage the on-premises deployment.
+[[Lifecycle Services]] is used to manage the on-premises deployment.
 
 To build and manage an enterprise-class, high-scale application, on-premises deployments use Microsoft Azure Server Service standalone clusters.
 

@@ -16,4 +16,4 @@ When finishing your code and customizations in Visual Studio, you must make a fe
 - When you have selected all the models for the deployable package, select **Create**. A zip file will be saved to the location that you specified.
 ## Production deployment
 
-To deploy to production, customers can schedule a downtime that will determine when an update will be applied to the production environment by Microsoft. To schedule downtime to apply updates to the environment, the package must have been applied to at least one sandbox environment in the same project. You can submit a service request for this in Lifecycle Services.
+To deploy to production, customers can schedule a downtime that will determine when an update will be applied to the production environment by Microsoft. To schedule downtime to apply updates to the environment, the package must have been applied to at least one sandbox environment in the same project. You can submit a service request for this in [[Lifecycle Services]].
