@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "584b230b3017ac30",
+        "id": "5c4b937b6e7643bc",
         "type": "tabs",
         "children": [
           {
-            "id": "b6c20a049b791fc8",
+            "id": "bf67bfd926223e5f",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Finance and Operations Apps Developer/4. Performance and Monitoring/Performance SDK.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -52,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "business process",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 491.51103591918945,
-    "collapsed": true
+    "width": 308.51103591918945
   },
   "right": {
     "id": "138fd9cde58f21af",
@@ -90,14 +87,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Finance and Operations Apps Developer/4. Performance and Monitoring/Performance SDK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -107,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Finance and Operations Apps Developer/4. Performance and Monitoring/Performance SDK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Finance and Operations Apps Developer/4. Performance and Monitoring/Performance SDK.md"
               }
             }
           },
@@ -159,38 +156,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b6c20a049b791fc8",
+  "active": "bf67bfd926223e5f",
   "lastOpenFiles": [
-    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/SysOperation Framework.md",
+    "Finance and Operations Apps Developer/4. Performance and Monitoring/Trace parser.md",
+    "Finance and Operations Apps Developer/4. Performance and Monitoring/Performance SDK.md",
+    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Task Recorder.md",
+    "Finance and Operations Apps Developer/4. Performance and Monitoring/Record Tasks.md",
+    "Finance and Operations Apps Developer/4. Performance and Monitoring/Finance and Operations Apps Developer%2F4. Performance and Monitoring%2FTrace parser.md",
+    "Finance and Operations Apps Developer/4. Performance and Monitoring/TasksRecording.md",
+    "Finance and Operations Apps Developer/4. Performance and Monitoring/Tasks.md",
+    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Finance and Operations apps architecture.md",
+    "Finance and Operations Apps Developer/4. Performance and Monitoring",
+    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Apps Frameworks.md",
+    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Business Process Modeler (BPM).md",
+    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Business process modeler (BPM).md",
     "Untitled.canvas",
-    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/UI Builder class.md",
-    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Controller class.md",
+    "Regression Suite Automation Tool.md",
+    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/SysOperation Framework.md",
     "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Service class.md",
+    "Finance and Operations Apps Developer/3. Manage F&O apps implementations using Lifecycle Services/Asset Library.md",
+    "Finance and Operations Apps Developer/3. Manage F&O apps implementations using Lifecycle Services/Lifecycle Services.md",
+    "Finance and Operations Apps Developer/3. Manage F&O apps implementations using Lifecycle Services/Environment Provisioning.md",
+    "Task Recorder.md",
+    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/UI Builder class.md",
+    "new_table_new_fields.png",
+    "Finance and Operations Apps Developer/3. Manage F&O apps implementations using Lifecycle Services",
+    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Controller class.md",
+    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Design patterns and deployment/Branching strategies.md",
     "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Source control/Advanced Source Control and Deployment Strategies.md",
     "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Data contract class.md",
-    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Apps Frameworks.md",
     "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Technical gaps.md",
-    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Design patterns and deployment/Branching strategies.md",
     "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Apps frameworks/Data management framework.md",
     "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Apps frameworks/Task Recorder.md",
-    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Apps frameworks/Business Process Modeler (BPM).md",
     "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Apps frameworks",
     "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Design patterns and deployment",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Application Components and Architecture.md",
     "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps",
     "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Number Sequence.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Reporting.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Finance and Ops cloud & onprem/Finance and operations apps in the cloud.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Business Process Modeler (BPM).md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Source control/Source Control Introduction and Setup.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Lifecycle Services.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Dynamics 365 Applications.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Finance and Ops cloud & onprem/Finance + Operations (on-premises).md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Elements, models and packages.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Metadata Management Processes for Finance and Operations.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Development and Deployment.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Conform code to organization policies.md",
     "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Source control",
     "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Finance and Ops cloud & onprem",
     "Finance and Operations Apps Developer"

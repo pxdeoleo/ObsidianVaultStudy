@@ -5,7 +5,7 @@
 
 **2. Tools for Cloud-Based Solutions:**
 
-- **Cloud-hosted Environments Tool:** Facilitates deployment of finance and operations environments on Microsoft Entra ID.
+- **Cloud-hosted Environments Tool:** Facilitates deployment of finance and operations environments on [[Microsoft Entra]] ID.
 - **Environment Options:** Includes Demo, Developer, and Test environments.
 - **Provisioning:** Automatically sets up the required virtual machines with all necessary prerequisites.
 
@@ -30,7 +30,7 @@
 - **Project Management:** Tracks tasks and milestones for production environment setup.
 - **License Estimation:** Assists in determining the number of licenses needed.
 - **Environment Monitoring:** View the status of environments from the Detailed environment page.
-- **Issue Resolution:** Access issue search for common problems and solutions.
+- **Issue Resolution:** Access issue search for common problems and solutions. Search through [[Microsoft Knowledge Base]] articles, workarounds, and reported issues.
 - **Upgrades and Updates Management:** Scheduled through Lifecycle Services.
 - **Data Management:** Facilitates copying data between environments.
 

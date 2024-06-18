@@ -6,4 +6,4 @@ To further understand this concept, consider the three key models in finance and
 - **Application foundation** - This includes metadata that comprises organizational modeling, number sequences in the system, global address book, and source documentation.
 - **Application platform** - This contains runtime and data access metadata, workflow and services, the Dynamics 365 client and presentation, and SSRS reporting.
 
-You can deploy finance and operations apps in the cloud, or [[Finance + Operations (on-premises)]]. As a developer, it's important for you to understand the difference between these architectures. Depending on the type of deployment that your organization chooses, architecture and the application capabilities might vary.
+You can deploy [[Finance and operations apps in the cloud]], or [[Finance + Operations (on-premises)]]. As a developer, it's important for you to understand the difference between these architectures. Depending on the type of deployment that your organization chooses, architecture and the application capabilities might vary.
