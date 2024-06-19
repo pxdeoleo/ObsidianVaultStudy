@@ -7,7 +7,7 @@ Key components:
 	- Change the way UI is displayed
 	- Page appearance
 	- Hide, move, rearrange columns on grid
-- [[Task Recorder]]. Integrates with the Lifecycle Service [[Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Business Process Modeler (BPM)]] tool.
+- [[Task Recorder]]. Integrates with the Lifecycle Service [[Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Common/Business Process Modeler (BPM)]] tool.
 	- Enables the creation of business process diagrams from task recordings for analyzing and designing applications.
 	- Create guided experiences through a business process
 	- Generate training documents with screenshots of the user interface at each step

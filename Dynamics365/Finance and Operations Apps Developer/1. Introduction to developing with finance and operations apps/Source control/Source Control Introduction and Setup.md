@@ -14,7 +14,7 @@
 - **Account Creation:** Sign up at [Visual Studio Website](https://visualstudio.microsoft.com/), choose a URL for your account.
 - **Project Setup:** Create a new project after setting up an account.
 
-**4. Configuring Visual Studio for Azure DevOps:**
+**4. [[Configuring Visual Studio for Azure DevOps]]:**
 
 - **Connection Setup:**
     - Open Visual Studio as administrator.

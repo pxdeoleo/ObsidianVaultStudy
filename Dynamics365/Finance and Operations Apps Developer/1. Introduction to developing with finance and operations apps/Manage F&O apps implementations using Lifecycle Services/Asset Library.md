@@ -5,7 +5,7 @@
 	- Project-level asset library
 
 #### Categories
-- BPM artifact - Documents from the [[Business Process Modeler (BPM)]]
+- BPM artifact - Documents from the [[Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Common/Business Process Modeler (BPM)]]
 - Database backup - Files able to restore an SQL or Azure SQL database
 - Model - Prepackaged extensions to install on an environment
 - Software deployable package - Package built from Azure DevOps
