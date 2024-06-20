@@ -1,5 +1,5 @@
 ### Definition
-- Storage location for the various assets associated with a tenant in Lifecycle Services.
+- Storage location for the various assets associated with a tenant in [[Lifecycle Services]].
 - Types: 
 	- Shared asset library
 	- Project-level asset library

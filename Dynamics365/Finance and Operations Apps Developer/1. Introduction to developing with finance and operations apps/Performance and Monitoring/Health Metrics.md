@@ -1,12 +1,12 @@
 >[!summary]
->Environment Monitoring and SQL Insights in Lifecycle Services provide comprehensive dashboards for assessing the health and performance of finance and operations apps environments.
+>Environment Monitoring and [[SQL Insights]] in [[Lifecycle Services]] provide comprehensive dashboards for assessing the health and performance of finance and operations apps environments.
 
 #### Definitions
-- Health Metrics: Diagnostic tools within Lifecycle Services to monitor and report on the health of various services and components in an environment.
+- Health Metrics: Diagnostic tools within [[Lifecycle Services]] to monitor and report on the health of various services and components in an environment.
 
 >[!info] Overview of Monitoring Tools
 
-Environment Monitoring and SQL Insights offer user-friendly dashboards that allow you to view and analyze health metrics of your environments, facilitating proactive issue mitigation.
+Environment Monitoring and [[SQL Insights]] offer user-friendly dashboards that allow you to view and analyze health metrics of your environments, facilitating proactive issue mitigation.
 
 >[!bug] Immediate Mitigation Limitations
 
@@ -26,7 +26,7 @@ Significant health issues detected by the dashboard are reported directly to the
 
 >[!example] Viewing Health Metrics
 
-1. Navigate to the Environment Monitoring page in Lifecycle Services.
+1. Navigate to the Environment Monitoring page in [[Lifecycle Services]].
 2. Access the Health metrics tab to view the dashboard.
 3. Select the desired environment to retrieve specific metrics.
 4. Analyze data such as CPU usage, memory availability, and error logs.

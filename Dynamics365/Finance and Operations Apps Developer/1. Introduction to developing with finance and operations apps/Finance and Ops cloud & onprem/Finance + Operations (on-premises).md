@@ -7,6 +7,6 @@ SQL Server database are run in the customer's data center.
 
 To build and manage an enterprise-class, high-scale application, on-premises deployments use Microsoft Azure Server Service standalone clusters.
 
-The **Service Fabric standalone clusters** can be installed on any machine that is running Windows Server. There are two types of clusters: one for sandboxes and one for production environments. Application Object Servers (AOS), Financial Reports Designer (formally named Management Reporter), and SQL Server Reporting Services (SSRS) are roles that are deployed in both the production and sandbox clusters.
+The **Service Fabric standalone clusters** can be installed on any machine that is running Windows Server. There are two types of clusters: one for sandboxes and one for production environments. Application Object Servers (AOS), Financial Reports Designer (formally named Management Reporter), and [[SQL Server Reporting Services]] (SSRS) are roles that are deployed in both the production and sandbox clusters.
 
 There are differences in features that are available for cloud and on-premises deployments.

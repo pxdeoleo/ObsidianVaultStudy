@@ -10,7 +10,7 @@
     - **Runtime and Data Access:** Core communication with the kernel.
     - **Workflow and Services:** Supports standard and custom workflows; integrates SOAP and JSON endpoints for custom services.
     - **Client and Presentation:** Manages user interactions through various devices with a user-friendly interface.
-    - **SSRS Reporting:** Utilizes SQL Server Reporting Services for standard and custom reports.
+    - **SSRS Reporting:** Utilizes [[SQL Server Reporting Services]] for standard and custom reports.
 
 **3. Application Foundation:**
 
@@ -22,7 +22,7 @@
 **4. Test Essentials:**
 
 - **Testing Framework:** Provides FormAdaptors for testing form functionalities.
-- **[[Task Recorder]] Integration:** Generates test code from Task Recorder XML files.
+- **[[Task Recorder]] Integration:** Generates test code from [[Task Recorder]] XML files.
 
 **5. Application-Specific Models:**
 

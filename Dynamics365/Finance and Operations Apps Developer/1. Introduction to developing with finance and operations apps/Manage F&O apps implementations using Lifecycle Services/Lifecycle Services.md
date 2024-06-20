@@ -1,6 +1,6 @@
 **1. Introduction to Lifecycle Services:**
 
-- **Access:** Sign in at [Lifecycle Services](https://lcs.dynamics.com) using Microsoft Entra ID credentials.
+- **Access:** Sign in at [Lifecycle Services](https://lcs.dynamics.com) using [[Microsoft Entra]] ID credentials.
 - **Purpose:** Assists in managing the lifecycle of finance and operations apps across different environments.
 
 **2. Tools for Cloud-Based Solutions:**
@@ -19,7 +19,7 @@
 
 **4. Deploying Code to On-Premises Environments:**
 
-- **Package Upload:** Add deployable package to the Asset Library in Lifecycle Services.
+- **Package Upload:** Add deployable package to the [[Asset Library]] in Lifecycle Services.
 - **Deployment Configuration:**
     - Select environment (sandbox or production).
     - Configure deployment settings and select the AOT packages for deployment.
