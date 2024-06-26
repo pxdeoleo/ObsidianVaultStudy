@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4dfe9766aa452635",
+        "id": "4411f5113efc2d2f",
         "type": "tabs",
         "children": [
           {
-            "id": "c62c18559be9c8cd",
+            "id": "15890fd90461e965",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Microsoft Knowledge Base.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -70,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 308.51103591918945,
-    "collapsed": true
+    "width": 308.51103591918945
   },
   "right": {
     "id": "138fd9cde58f21af",
@@ -87,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microsoft Knowledge Base.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Microsoft Knowledge Base.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Microsoft Knowledge Base.md"
-              }
+              "state": {}
             }
           },
           {
@@ -139,7 +129,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -156,34 +147,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c62c18559be9c8cd",
+  "active": "15890fd90461e965",
   "lastOpenFiles": [
-    "Microsoft Knowledge Base.md",
-    "SQL Server Reporting Services.md",
-    "Regression Suite Automation Tool.md",
-    "Microsoft Entra.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Test Framework and tools/Unit test framework.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Test Framework and tools/Run unit tests.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Test Framework and tools/Document and fix issues.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Test Framework and tools/Configure the testing environment.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP/Interfaces.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP/Scoping and Access Identifiers.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP/Chan of Command (CoC).md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Build projects in Visual Studio.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP/Attributes.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP/Inheritance.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Structured programming constructs of X++.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Runtime functions in common tasks.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Integrating .NET Libraries.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Exception handling in X++.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Const Values.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Conditional and Iterative Statements in X++.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Application Explorer.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/SQL Statements on X++.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Setup VHD.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Data Types and Operators in X++.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Building Deployment Packages.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Element Designer.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Sync data changes with the database.md",
+    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Common/Elements, models and packages.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Label files.md",
     "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Test Framework and tools/Categories and types of errors.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Test Framework and tools/Best practices tool.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Source control/Source Control Introduction and Setup.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Source control/Advanced Source Control and Deployment Strategies.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Reporting tools/Reporting tools.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Reporting tools/Reporting security.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Reporting tools/Report data sources.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Reporting tools/Publish a report.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Performance and Monitoring/Trace parser.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Performance and Monitoring/SQL Profiler.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Performance and Monitoring/SQL Insights.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Performance and Monitoring/Performance SDK.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Performance and Monitoring/Health Metrics.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Performance and Monitoring/Configuring Visual Studio for Azure DevOps.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Performance and Monitoring/Code reviews.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Manage F&O apps implementations using Lifecycle Services/Lifecycle Services.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Manage F&O apps implementations using Lifecycle Services/Environment Provisioning.md",
     "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Manage F&O apps implementations using Lifecycle Services/Asset Library.md",
+    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Explore design and deployment considerations for finance and operations apps/Controller class.md",
+    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Explore design and deployment considerations for finance and operations apps/Apps Frameworks.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps",
+    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Test Framework and tools/Best practices tool.md",
     "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Reporting tools",
     "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Test Framework and tools",
     "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Common",
@@ -191,10 +186,6 @@
     "Untitled.canvas",
     "new_table_new_fields.png",
     "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Manage F&O apps implementations using Lifecycle Services",
-    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Apps frameworks",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Explore design and deployment considerations for finance and operations apps/Design patterns and deployment",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Explore design and deployment considerations for finance and operations apps",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Source control"
+    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Apps frameworks"
   ]
 }

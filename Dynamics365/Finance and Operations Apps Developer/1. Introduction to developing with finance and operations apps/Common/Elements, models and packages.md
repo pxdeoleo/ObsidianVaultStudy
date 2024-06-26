@@ -1,12 +1,12 @@
 ### 1. Structural Hierarchy:
 
-- **Elements:** Fundamental components, such as metadata and source files (e.g., base enumerations, tables). Available out-of-the-box or can be created in Application Explorer (AOT).
+- **Elements:** Fundamental components, such as metadata and source files (e.g., base enumerations, tables). Available out-of-the-box or can be created in [[Application Explorer]] (AOT).
 - **Models:** Collections of elements (e.g., warehouse management model). Organized within projects.
 - **Packages:** Aggregations of models, used to create deployable packages.
 ### 2. Diagram & Visuals:
 
 - Technical architecture of elements.
-- Application Explorer interface in Visual Studio.
+- [[Application Explorer]] interface in Visual Studio.
 
 ### 3. Development Process:
 
