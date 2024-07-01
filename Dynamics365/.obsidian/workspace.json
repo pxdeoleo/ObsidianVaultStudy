@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4411f5113efc2d2f",
+        "id": "68acedd87c2e8ab5",
         "type": "tabs",
         "children": [
           {
-            "id": "15890fd90461e965",
+            "id": "9236af6a77ea3a01",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building/Form methods.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building/Form methods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building/Form methods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building/Form methods.md"
+              }
             }
           },
           {
@@ -147,45 +156,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15890fd90461e965",
+  "active": "9236af6a77ea3a01",
   "lastOpenFiles": [
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP/Interfaces.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Data Types and Operators in X++.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Const Values.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Conditional and Iterative Statements in X++.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building/Data sources.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building/Form methods.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building/Form patterns.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Extended data types/Base enums.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Management, extension and creation of data models/Table maps.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Management, extension and creation of data models/Query creation management and extension.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Management, extension and creation of data models/View creation and management.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Management, extension and creation of data models",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Table methods.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Add fields, field groups, indexes and relations.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Setting table and field properties.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Tables and table fields.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Extended data types/Extended Data Types (EDTs).md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Extended data types/Untitled",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Application Lifecycle management/Upgrades, Updates and Hotfixes.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Application Lifecycle management/ALM Methodologies.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Application Lifecycle management/Release Management and Risk Mitigation.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Extended data types",
+    "Regression Suite Automation Tool.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Application Lifecycle management/Build, test and Quality Control.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Application Lifecycle management/Understanding and Creating Models in Dynamics 365 for Finance and Operations.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP/Scoping and Access Identifiers.md",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/Application Lifecycle management",
+    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP/Interfaces.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP/Chan of Command (CoC).md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/Build projects in Visual Studio.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP/Attributes.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP/Inheritance.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Structured programming constructs of X++.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Runtime functions in common tasks.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Integrating .NET Libraries.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Exception handling in X++.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Const Values.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Conditional and Iterative Statements in X++.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Application Explorer.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/SQL Statements on X++.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Setup VHD.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Data Types and Operators in X++.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Building Deployment Packages.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/X++",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Element Designer.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Sync data changes with the database.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Common/Elements, models and packages.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Label files.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Test Framework and tools/Categories and types of errors.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Manage F&O apps implementations using Lifecycle Services/Asset Library.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Explore design and deployment considerations for finance and operations apps/Controller class.md",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Explore design and deployment considerations for finance and operations apps/Apps Frameworks.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Test Framework and tools/Best practices tool.md",
     "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Reporting tools",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Test Framework and tools",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Common",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Performance and Monitoring",
     "Untitled.canvas",
-    "new_table_new_fields.png",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Manage F&O apps implementations using Lifecycle Services",
-    "Finance and Operations Apps Developer/2. Explore design and deployment considerations for finance and operations apps/Apps frameworks"
+    "new_table_new_fields.png"
   ]
 }
