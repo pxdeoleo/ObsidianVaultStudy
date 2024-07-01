@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d549c0f06772904d",
+        "id": "cf5fa30e736d9e5a",
         "type": "tabs",
         "children": [
           {
-            "id": "385daec9a78851e3",
+            "id": "b439ca9bb0b64f6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Central App Developer Associate/Introduction/Subscription Types and Licensing.md",
+                "file": "Business Central App Developer Associate/3. Bringing an app to AppSource/AppSource Publication for Business Central Apps.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Central App Developer Associate/Introduction/Subscription Types and Licensing.md",
+                "file": "Business Central App Developer Associate/3. Bringing an app to AppSource/AppSource Publication for Business Central Apps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Central App Developer Associate/Introduction/Subscription Types and Licensing.md",
+                "file": "Business Central App Developer Associate/3. Bringing an app to AppSource/AppSource Publication for Business Central Apps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Central App Developer Associate/Introduction/Subscription Types and Licensing.md"
+                "file": "Business Central App Developer Associate/3. Bringing an app to AppSource/AppSource Publication for Business Central Apps.md"
               }
             }
           },
@@ -155,44 +155,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "385daec9a78851e3",
+  "active": "b439ca9bb0b64f6a",
   "lastOpenFiles": [
-    "Business Central App Developer Associate/Introduction/Business Central.md",
-    "Business Central App Developer Associate/Introduction/Microsoft 365 Integration in Business Central.md",
-    "Business Central App Developer Associate/Introduction/Human Resources Management.md",
-    "Business Central App Developer Associate/Introduction/Manufacturing Capabilities.md",
-    "Business Central App Developer Associate/Introduction/Service Management.md",
-    "Business Central App Developer Associate/Introduction/Managing Jobs and Resources.md",
-    "Business Central App Developer Associate/Introduction/Document Sending Profiles.md",
-    "Business Central App Developer Associate/Introduction/Streamlining Supply Chain in Business Central.md",
-    "Business Central App Developer Associate/Introduction/Sales Integration.md",
-    "Business Central App Developer Associate/Introduction/Relationship Management.md",
-    "Business Central App Developer Associate/Introduction/Subscription Types and Licensing.md",
-    "Business Central App Developer Associate/Introduction",
-    "Business Central App Developer Associate/Introduction/Business Central trial setup.md",
+    "Business Central App Developer Associate/1. Introduction/Subscription Types and Licensing.md",
+    "Business Central App Developer Associate/1. Introduction/Streamlining Supply Chain in Business Central.md",
+    "Business Central App Developer Associate/1. Introduction/Service Management.md",
+    "Business Central App Developer Associate/1. Introduction/Sales Integration.md",
+    "Business Central App Developer Associate/1. Introduction/Relationship Management.md",
+    "Business Central App Developer Associate/1. Introduction/Microsoft 365 Integration in Business Central.md",
+    "Business Central App Developer Associate/1. Introduction/Manufacturing Capabilities.md",
+    "Business Central App Developer Associate/1. Introduction/Managing Jobs and Resources.md",
+    "Business Central App Developer Associate/1. Introduction/Infrastructure and Integration in Business Central.md",
+    "Business Central App Developer Associate/1. Introduction/Human Resources Management.md",
+    "Business Central App Developer Associate/1. Introduction/Document Sending Profiles.md",
+    "Business Central App Developer Associate/1. Introduction/Customization and Integration in Business Central.md",
+    "Business Central App Developer Associate/1. Introduction/Business Central trial setup.md",
+    "Business Central App Developer Associate/1. Introduction/Business Central.md",
+    "Business Central App Developer Associate/2. Best practices/Optimizing Visual Studio Code.md",
+    "Business Central App Developer Associate/2. Best practices/Library and Dependency Apps.md",
+    "Business Central App Developer Associate/2. Best practices/Developer Resources for Business Central.md",
+    "Business Central App Developer Associate/2. Best practices/Connect and Add-on Apps.md",
+    "Business Central App Developer Associate/2. Best practices/AppSource.md",
+    "Business Central App Developer Associate/3. Bringing an app to AppSource/AppSource Publication for Business Central Apps.md",
+    "Business Central App Developer Associate/3. Bringing an app to AppSource",
+    "Business Central App Developer Associate/Best practices/Untitled.md",
+    "Business Central App Developer Associate/2. Best practices",
+    "Business Central App Developer Associate/Customizing Business Central",
+    "Business Central App Developer Associate/1. Introduction",
     "Business Central App Developer Associate",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building/Form methods.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Data Types and Operators in X++.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Const Values.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Conditional and Iterative Statements in X++.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building/Data sources.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building/Form patterns.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Extended data types/Base enums.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Management, extension and creation of data models/Table maps.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Management, extension and creation of data models/Query creation management and extension.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Management, extension and creation of data models/View creation and management.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/Management, extension and creation of data models",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Table methods.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Add fields, field groups, indexes and relations.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Setting table and field properties.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Tables and table fields.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/Extended data types/Untitled",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/Extended data types",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/Application Lifecycle management",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/OOP",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++",
     "Untitled.canvas",
     "new_table_new_fields.png"
   ]
