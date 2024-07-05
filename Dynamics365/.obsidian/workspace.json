@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cf5fa30e736d9e5a",
+        "id": "af5021314569825f",
         "type": "tabs",
         "children": [
           {
-            "id": "b439ca9bb0b64f6a",
+            "id": "6bdc02103c761feb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Central App Developer Associate/3. Bringing an app to AppSource/AppSource Publication for Business Central Apps.md",
+                "file": "Business Central App Developer Associate/7. Test automation/Untitled.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Central App Developer Associate/3. Bringing an app to AppSource/AppSource Publication for Business Central Apps.md",
+                "file": "Business Central App Developer Associate/7. Test automation/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Central App Developer Associate/3. Bringing an app to AppSource/AppSource Publication for Business Central Apps.md",
+                "file": "Business Central App Developer Associate/7. Test automation/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Central App Developer Associate/3. Bringing an app to AppSource/AppSource Publication for Business Central Apps.md"
+                "file": "Business Central App Developer Associate/7. Test automation/Untitled.md"
               }
             }
           },
@@ -139,11 +139,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,8 +156,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b439ca9bb0b64f6a",
+  "active": "6bdc02103c761feb",
   "lastOpenFiles": [
+    "Business Central App Developer Associate/7. Test automation/Untitled.md",
+    "Business Central App Developer Associate/7. Test automation",
+    "Business Central App Developer Associate/6. Application upgrade/Writing Effective Installation and Upgrade Code for Business Central Extensions.md",
+    "Business Central App Developer Associate/6. Application upgrade/Updating Business Central Apps - Best Practices and FAQs.md",
+    "Business Central App Developer Associate/6. Application upgrade/Managing Breaking Changes in AppSource Applications.md",
+    "Business Central App Developer Associate/6. Application upgrade/Managing App Updates in Business Central.md",
+    "Business Central App Developer Associate/6. Application upgrade/Managing App Upgrades and Maintenance for Business Central on AppSource.md",
+    "Business Central App Developer Associate/6. Application upgrade/Efficient Data Transfer in Business Central Upgrades.md",
+    "Business Central App Developer Associate/6. Application upgrade/Managing Tenant-Specific Extensions in Business Central.md",
+    "Business Central App Developer Associate/5. SaaSification/Implementing SaaSification Techniques in Business Central Apps.md",
+    "Business Central App Developer Associate/6. Application upgrade",
+    "SQL Server Reporting Services.md",
+    "Business Central App Developer Associate/5. SaaSification/Designing a SaaSified User Experience for Business Central Apps.md",
+    "Business Central App Developer Associate/3. Bringing an app to AppSource/AppSource Publication for Business Central Apps.md",
+    "Business Central App Developer Associate/4. Application Monetization/Monetizing Business Central Apps on AppSource.md",
+    "Business Central App Developer Associate/5. SaaSification",
+    "Business Central App Developer Associate/4. Application Monetization",
     "Business Central App Developer Associate/1. Introduction/Subscription Types and Licensing.md",
     "Business Central App Developer Associate/1. Introduction/Streamlining Supply Chain in Business Central.md",
     "Business Central App Developer Associate/1. Introduction/Service Management.md",
@@ -170,29 +188,12 @@
     "Business Central App Developer Associate/1. Introduction/Document Sending Profiles.md",
     "Business Central App Developer Associate/1. Introduction/Customization and Integration in Business Central.md",
     "Business Central App Developer Associate/1. Introduction/Business Central trial setup.md",
-    "Business Central App Developer Associate/1. Introduction/Business Central.md",
-    "Business Central App Developer Associate/2. Best practices/Optimizing Visual Studio Code.md",
-    "Business Central App Developer Associate/2. Best practices/Library and Dependency Apps.md",
-    "Business Central App Developer Associate/2. Best practices/Developer Resources for Business Central.md",
-    "Business Central App Developer Associate/2. Best practices/Connect and Add-on Apps.md",
-    "Business Central App Developer Associate/2. Best practices/AppSource.md",
-    "Business Central App Developer Associate/3. Bringing an app to AppSource/AppSource Publication for Business Central Apps.md",
     "Business Central App Developer Associate/3. Bringing an app to AppSource",
-    "Business Central App Developer Associate/Best practices/Untitled.md",
     "Business Central App Developer Associate/2. Best practices",
     "Business Central App Developer Associate/Customizing Business Central",
     "Business Central App Developer Associate/1. Introduction",
     "Business Central App Developer Associate",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building/Form methods.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Data Types and Operators in X++.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Const Values.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/X++/Essentials/Conditional and Iterative Statements in X++.md",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building/Data sources.md",
     "Finance and Operations Apps Developer/2. Build finance and operations apps/Forms building",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Management, extension and creation of data models",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Extended data types/Untitled",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Extended data types",
-    "Finance and Operations Apps Developer/2. Build finance and operations apps/Application Lifecycle management",
     "Untitled.canvas",
     "new_table_new_fields.png"
   ]
