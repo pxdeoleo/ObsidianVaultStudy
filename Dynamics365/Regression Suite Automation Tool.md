@@ -2,11 +2,11 @@
 >The Regression Suite Automation Tool (RSAT) enhances the efficiency of User Acceptance Testing (UAT) for finance and operations apps by automating test creation and execution through integration with [[Task Recorder]] and Azure DevOps.
 
 #### Definitions
-- RSAT (Regression Suite Automation Tool): A tool designed to automate the process of recording, configuring, and executing user acceptance tests for [[Dynamics 365 applications]].
+- RSAT (Regression Suite Automation Tool): A tool designed to automate the process of recording, configuring, and executing user acceptance tests for [[Dynamics 365 Applications]].
 
 >[!info] Integration with Azure DevOps
 
-RSAT integrates seamlessly with Microsoft Azure DevOps, facilitating test execution, [[reporting]], and investigation, with test parameters managed through Microsoft Excel for flexibility.
+RSAT integrates seamlessly with Microsoft Azure DevOps, facilitating test execution, [[Reporting]], and investigation, with test parameters managed through Microsoft Excel for flexibility.
 
 >[!bug] Limitations in Test Scope
 
@@ -33,7 +33,7 @@ RSAT is ideally used for testing larger business processes or scenarios that ref
 
 >[!info] RSAT [[User Interface]] and Navigation
 
-The RSAT [[user interface]] is designed for ease of use, featuring a modern layout with quick links and easy navigation to essential components like test plans and settings.
+The RSAT [[User Interface]] is designed for ease of use, featuring a modern layout with quick links and easy navigation to essential components like test plans and settings.
 
 #### Additional Tools and Recommendations
 - **For Unit Testing**: Use the SysTest framework along with the Acceptance Test Library (ATL) for creating consistent test data and readable test code.

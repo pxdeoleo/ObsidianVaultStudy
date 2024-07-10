@@ -2,7 +2,7 @@
 >Visual Studio's SysTest Framework enables developers to write, integrate, and automate unit tests for application functionality, enhancing code reliability and efficiency.
 
 #### Definitions
-- SysTest Framework: A testing framework in Visual Studio for creating and running automated unit tests on [[Dynamics 365 applications]].
+- SysTest Framework: A testing framework in Visual Studio for creating and running automated unit tests on [[Dynamics 365 Applications]].
 
 >[!info] Test Integration and Automation
 

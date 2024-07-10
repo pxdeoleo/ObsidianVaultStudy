@@ -2,7 +2,6 @@
 > Master data management in Business Central allows synchronization of master data across multiple companies within the same environment. This feature ensures consistent data across all companies by subscribing to data from a source company and defining synchronization rules.
 
 #### Definitions
-
 - **Master Data Management**: A function in Business Central for synchronizing master data across several companies.
 - **Source Company**: The company from which master data is synced.
 - **Receiving Company**: The company that subscribes to and receives the master data from the source company.

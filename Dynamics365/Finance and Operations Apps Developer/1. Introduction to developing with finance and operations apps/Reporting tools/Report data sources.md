@@ -1,8 +1,8 @@
 >[!summary]
->Creating and modifying data sources is crucial for [[reporting]] tools like [[SQL Server Reporting Services]] (SSRS) and Power BI, enabling them to pull relevant data for insightful reporting.
+>Creating and modifying data sources is crucial for [[Reporting]] tools like [[SQL Server Reporting Services]] (SSRS) and Power BI, enabling them to pull relevant data for insightful reporting.
 
 #### Definitions
-- Data Sources: Configurations within [[reporting tools]] that define where and how data is retrieved for reports.
+- Data Sources: Configurations within [[Reporting tools]] that define where and how data is retrieved for reports.
 
 >[!info] SSRS Data Sources
 
