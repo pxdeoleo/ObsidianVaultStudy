@@ -1,5 +1,5 @@
 >[!summary]
->Microsoft offers comprehensive guidelines and resources to assist Independent Software Vendors (ISVs) in successfully integrating and publishing their apps on AppSource. This journey involves setting up necessary accounts, developing the app, and navigating the validation and publication process.
+>Microsoft offers comprehensive guidelines and resources to assist Independent Software Vendors (ISVs) in successfully integrating and publishing their apps on [[AppSource]]. This journey involves setting up necessary accounts, developing the app, and navigating the validation and publication process.
 
 #### Definitions
 - **MPN ID**: A unique identifier for Microsoft Partner Network members.
@@ -14,7 +14,7 @@
 
 >[!info] Steps to Develop and Publish on AppSource
 1. **Create and Set Up Accounts**: Ensure all necessary accounts and agreements are in place.
-2. **Develop Your App**: Utilize the tools and SDKs provided by Business Central.
+2. **Develop Your App**: Utilize the tools and SDKs provided by [[Business Central]].
 3. **Initiate Validation and Publication**: Follow the steps outlined in the whitepapers to validate and publish your app on AppSource.
 
 >[!tip] Leveraging Whitepapers for Guidance

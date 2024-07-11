@@ -1,5 +1,5 @@
 >[!summary]
->Business Central's relationship management features enhance sales efforts by providing detailed contact information, effective segmentation, and integrated opportunity management.
+>[[Business Central]]'s relationship management features enhance sales efforts by providing detailed contact information, effective segmentation, and integrated opportunity management.
 #### Definitions
 - Contacts: The fundamental entities in relationship management that represent individuals or companies.
 - Segmentation: The process of categorizing contacts based on specific criteria to tailor marketing efforts.

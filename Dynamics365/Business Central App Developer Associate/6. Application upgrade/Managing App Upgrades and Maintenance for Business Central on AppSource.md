@@ -1,5 +1,5 @@
 >[!summary]
->Understanding the lifecycle and upgrade scenarios for apps on Microsoft Dynamics 365 Business Central is crucial for developers to ensure seamless functionality and compatibility. This guide outlines different scenarios that can affect an app post-deployment, including service updates, app updates, bug fixes, critical bugs, and changes made by Microsoft.
+>Understanding the lifecycle and upgrade scenarios for apps on Microsoft Dynamics 365 [[Business Central]] is crucial for developers to ensure seamless functionality and compatibility. This guide outlines different scenarios that can affect an app post-deployment, including service updates, app updates, bug fixes, critical bugs, and changes made by Microsoft.
 
 #### Definitions
 - **Service Update**: Regular updates by Microsoft to Business Central that do not require changes to apps.
@@ -23,7 +23,7 @@
 - Regularly update and test your app to handle potential bugs efficiently and minimize impact on user operations.
 
 >[!attention] Handling Critical Updates
-- In cases of critical bugs or breaking changes by Microsoft, quick action, communication, and collaboration with Microsoft are crucial to resolving issues without affecting customer workflows.
+- In cases of critical bugs or breaking changes by Microsoft, quick action, communication, and collaboration with Microsoft are crucial to resolving issues without affecting customer [[workflows]].
 
 >[!example] Handling an App Update
 1. **Developer Initiates Update**: Add features or bug fixes and submit for validation.

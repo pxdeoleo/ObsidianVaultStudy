@@ -1,5 +1,5 @@
 >[!summary]
->Optimizing data transfer during upgrades in Microsoft Dynamics 365 Business Central can significantly enhance performance. The DataTransfer AL data type facilitates set-based data operations, contrasting with the traditional row-by-row approach, offering substantial efficiency improvements.
+>Optimizing data transfer during upgrades in Microsoft Dynamics 365 [[Business Central]] can significantly enhance performance. The DataTransfer AL data type facilitates set-based data operations, contrasting with the traditional row-by-row approach, offering substantial efficiency improvements.
 
 #### Introduction to DataTransfer
 - **DataTransfer**: An AL data type that allows bulk data transfer between SQL tables, optimizing performance during upgrades by leveraging SQL's set-based capabilities.

@@ -1,5 +1,5 @@
 >[!summary]
->Business Central Outlook add-in enables handling customer quotes and vendor invoices directly from Outlook. Users can view customer details, create and send quotes, and manage interactions seamlessly without leaving their inbox.
+>[[Business Central]] Outlook add-in enables handling customer quotes and vendor invoices directly from Outlook. Users can view customer details, create and send quotes, and manage interactions seamlessly without leaving their inbox.
 
 #### Customer Quote Management
 - Recognize customer from email and open their customer card in the add-in.

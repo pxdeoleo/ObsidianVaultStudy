@@ -1,5 +1,5 @@
 >[!summary]
->Business Central's Human Resources functionality allows for comprehensive management of employee details, from registration to absence management, enhancing HR operations.
+>[[Business Central]]'s Human Resources functionality allows for comprehensive management of employee details, from registration to absence management, enhancing HR operations.
 #### Definitions
 - Employee Card: A detailed record in Business Central containing all relevant information about an employee.
 - Absence Registration: The process of recording and managing employee absences for analysis and reporting.

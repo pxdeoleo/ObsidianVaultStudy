@@ -1,5 +1,5 @@
 >[!summary]
->AL code for obtaining session and environment information to modify Business Central behavior in Teams. This includes determining if the session runs in Teams, if the user has only a Microsoft 365 license, and if Microsoft 365 collaboration is enabled.
+>AL code for obtaining session and environment information to modify [[Business Central]] behavior in Teams. This includes determining if the session runs in Teams, if the user has only a Microsoft 365 license, and if Microsoft 365 collaboration is enabled.
 
 #### Checking Session in Teams
 - Use `CurrentClientType` method to check if the session runs in Teams.

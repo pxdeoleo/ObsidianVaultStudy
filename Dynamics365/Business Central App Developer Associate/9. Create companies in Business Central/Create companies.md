@@ -1,5 +1,5 @@
 > [!summary] 
-> The "Create New - No Data" and "Evaluation - Sample Data" options in the Business Central company creation wizard provide different setups for new companies, allowing for customization and evaluation based on business needs.
+> The "Create New - No Data" and "Evaluation - Sample Data" options in the [[Business Central]] company creation wizard provide different setups for new companies, allowing for customization and evaluation based on business needs.
 
 #### Definitions
 

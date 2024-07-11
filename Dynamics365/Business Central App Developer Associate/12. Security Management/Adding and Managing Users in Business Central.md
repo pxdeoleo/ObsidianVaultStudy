@@ -1,5 +1,5 @@
 >[!summary]  
-Once a Business Central instance and company are set up, users can be added from Microsoft 365. Administrators can manage user permissions through security groups or individual assignments.
+Once a [[Business Central]] instance and company are set up, users can be added from Microsoft 365. Administrators can manage user permissions through security groups or individual assignments.
 
 #### Definitions
 - **Microsoft 365 Admin Center**: Portal for creating and managing users in Microsoft 365.

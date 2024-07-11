@@ -1,5 +1,5 @@
 >[!summary]
->Monetizing apps for Microsoft Dynamics 365 Business Central involves various strategies, including licensing, registration with payment integration, and different pricing models. These methods cater to diverse business needs and customer preferences, enhancing the accessibility and profitability of your app.
+>Monetizing apps for Microsoft Dynamics 365 [[Business Central]] involves various strategies, including licensing, registration with payment integration, and different pricing models. These methods cater to diverse business needs and customer preferences, enhancing the accessibility and profitability of your app.
 
 #### Definitions
 - **License Key**: A traditional method where the app features are unlocked with a key post-trial.
@@ -10,7 +10,7 @@
 - Choose from direct license key methods, integrated registration systems, or third-party payment providers to monetize your app effectively.
 
 >[!bug] Challenges with License Keys
-- Manual processing and lack of subscription support make license keys less favorable for apps expecting high download volumes on AppSource.
+- Manual processing and lack of subscription support make license keys less favorable for apps expecting high download volumes on [[AppSource]].
 
 >[!info] Implementing a Registration System
 - Develop a registration server that not only tracks user registrations and authorizations but also integrates payment processing capabilities.

@@ -1,8 +1,8 @@
 >[!summary]
->Business Central offers robust tools to optimize sales and purchasing processes, manage inventory effectively, and streamline the entire supply chain.
+>[[Business Central]] offers robust tools to optimize sales and purchasing processes, manage inventory effectively, and streamline the entire supply chain.
 
 #### Definitions
-- Sales/Purchase Orders: Formal documents that initiate the purchase or sale of items under specific terms.
+- Sales/Purchase Orders: Formal [[Document Sending Profiles|documents]] that initiate the purchase or sale of items under specific terms.
 - Blanket Orders: Contracts covering multiple deliveries over a set time period.
 
 >[!info] Order Management

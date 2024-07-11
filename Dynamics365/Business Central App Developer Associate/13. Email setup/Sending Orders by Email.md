@@ -1,5 +1,5 @@
 >[!summary]  
-After setting up document sending profiles and assigning email scenarios to email accounts, you can send documents like order confirmations by email. This process is straightforward and allows for customization of the email content and attachments.
+After [[setting up document sending profiles]] and [[assigning email scenarios]] to email accounts, you can send documents like order confirmations by email. This process is straightforward and allows for customization of the email content and attachments.
 
 #### Definitions
 - **Email Scenario**: A predefined process for sending specific types of documents via email.

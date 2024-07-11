@@ -1,5 +1,5 @@
 >[!summary]
->Accessing and managing Business Central involves direct sign-ins, utilizing a demonstration database, and starting with a trial for real company data.
+>Accessing and managing [[Business Central]] involves direct sign-ins, utilizing a demonstration database, and starting with a trial for real company data.
 
 #### Definitions
 - [[Business Central]]: A comprehensive business management solution from Microsoft Dynamics 365, accessible via Microsoft 365 or directly.

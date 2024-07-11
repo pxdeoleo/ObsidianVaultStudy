@@ -1,5 +1,5 @@
  > [!summary] 
- > The page scripting tool in Business Central records user interactions with the UI for automated replay, facilitating user acceptance testing (UAT) by eliminating manual test repetition.
+ > The page scripting tool in [[Business Central]] records user interactions with the UI for automated replay, facilitating user acceptance testing (UAT) by eliminating manual test repetition.
 
 #### Definitions
 

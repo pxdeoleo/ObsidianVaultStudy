@@ -1,5 +1,5 @@
 >[!summary]
->Business Central offers deep integration with Microsoft 365, allowing seamless navigation and operation across various Microsoft apps, enhancing productivity and user experience.
+>[[Business Central]] offers deep integration with Microsoft 365, allowing seamless navigation and operation across various Microsoft apps, enhancing productivity and user experience.
 
 #### Definitions
 - Microsoft 365 Authentication: The process through which users are authenticated and managed within Business Central via Microsoft 365.

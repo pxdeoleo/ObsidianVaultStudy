@@ -1,5 +1,5 @@
 >[!summary]
->The Business Central app for Microsoft Teams integrates business data with Teams, enabling quick sharing of details, contact lookups, and faster responses to inquiries.
+>The [[Business Central]] app for Microsoft Teams integrates business data with Teams, enabling quick sharing of details, contact lookups, and faster responses to inquiries.
 
 >[!example] Installing the Business Central App for Microsoft Teams
 - Available on the Teams marketplace for web, desktop, and mobile apps.

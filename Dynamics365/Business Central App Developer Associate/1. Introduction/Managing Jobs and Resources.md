@@ -1,5 +1,5 @@
 >[!summary]
->Business Central's Jobs functionality enables effective project management and resource allocation, supporting both fixed-price and time-and-materials job types.
+>[[Business Central]]'s Jobs functionality enables effective project management and resource allocation, supporting both fixed-price and time-and-materials job types.
 
 #### Definitions
 - Jobs: Long-term projects involving various resources and labor, managed to ensure profitability and efficiency.

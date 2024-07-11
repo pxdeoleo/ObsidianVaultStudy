@@ -1,5 +1,5 @@
 >[!summary]
-To save time when creating new workflows, use workflow templates in Business Central. Workflow templates are non-editable workflows in the generic version of Business Central, with Microsoft templates prefixed by MS-.
+To save time when creating new [[workflows]], use workflow templates in [[Business Central]]. Workflow templates are non-editable workflows in the generic version of Business Central, with Microsoft templates prefixed by MS-.
 #### Definitions
 - **Workflow Templates:** Non-editable workflows available in Business Central.
 - **MS- Prefix:** Indicates workflow templates added by Microsoft.

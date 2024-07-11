@@ -36,7 +36,7 @@
 
 > [!example] Running Tests
 
-1. **From Business Central**:
+1. **From [[Business Central]]**:
     
     - Direct execution within the application.
 2. **Visual Studio Code Extension**:

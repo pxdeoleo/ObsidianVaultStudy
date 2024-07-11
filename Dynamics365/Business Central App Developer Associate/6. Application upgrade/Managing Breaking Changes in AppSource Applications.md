@@ -1,5 +1,5 @@
 >[!summary] 
-To manage breaking changes in AppSource applications, developers should use tools like AppSourceCop, hide internal implementations, compile against the latest dependencies, and announce upcoming breaks using deprecation properties.
+To manage breaking changes in [[AppSource]] applications, developers should use tools like AppSourceCop, hide internal implementations, compile against the latest dependencies, and announce upcoming breaks using deprecation properties.
 
 #### Definitions
 - **Breaking Change**: A modification requiring updates to the application to maintain integration, perceived as disruptive but necessary for progress.

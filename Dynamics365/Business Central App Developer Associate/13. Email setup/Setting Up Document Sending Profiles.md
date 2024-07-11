@@ -1,10 +1,10 @@
 >[!summary]  
-Document Sending Profiles in Business Central allow you to define how sales and purchase documents are sent to customers and vendors, reducing the need to select sending options each time. Profiles can include options for printing, emailing, saving to disk, or sending as electronic documents.
+[[Document Sending Profiles]] in [[Business Central]] allow you to define how sales and purchase documents are sent to customers and vendors, reducing the need to select sending options each time. Profiles can include options for printing, emailing, saving to disk, or sending as electronic documents.
 #### Definitions
 - **Document Sending Profile**: A set of preferences defining how documents are sent to customers and vendors.
 - **Default Profile**: The sending profile used for all customers and vendors unless specified otherwise.
 
->[!info] Setting Up Document Sending Profiles
+>[!info] Setting Up [[Document Sending Profiles]]
 
 1. **Open Document Sending Profile**:
     - Select the search icon, enter "document sending profile," and select the related link.

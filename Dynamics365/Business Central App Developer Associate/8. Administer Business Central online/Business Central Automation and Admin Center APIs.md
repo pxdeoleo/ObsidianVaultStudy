@@ -1,5 +1,5 @@
 > [!summary] 
-> Business Central exposes several APIs for automating tasks and administration, enabling efficient company setup and tenant management.
+> [[Business Central]] exposes several APIs for automating tasks and administration, enabling efficient company setup and tenant management.
 
 > [!info] Automation APIs
 
@@ -46,7 +46,7 @@
 
 > [!example] Authentication Methods
 
-- **Service-to-Service Microsoft Entra apps**: Client Credentials Flow
+- **Service-to-Service [[Microsoft Entra]] apps**: Client Credentials Flow
 - **Microsoft Entra ID based authentication**: Authorization Code Flow
 
 > [!info] Error Handling

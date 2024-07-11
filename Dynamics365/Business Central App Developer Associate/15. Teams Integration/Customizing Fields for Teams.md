@@ -1,5 +1,5 @@
 >[!summary]
->Customize Business Central fields in Teams using field groups or events. The Brick field group is recommended but not required, and the order of fallback is Brick, Dropdown, or primary key fields. Events offer additional customization options.
+>Customize [[Business Central]] fields in Teams using field groups or events. The Brick field group is recommended but not required, and the order of fallback is Brick, Dropdown, or primary key fields. Events offer additional customization options.
 
 #### Customizing Fields for Teams
 - Use Brick, Dropdown, or primary key fields for displaying cards in Teams.

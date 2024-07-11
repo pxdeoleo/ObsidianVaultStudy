@@ -1,5 +1,5 @@
 >[!summary]  
-Business Central supports email accounts through various extensions, enabling connections to Microsoft Exchange Online, Google Gmail, and other providers using SMTP. Setting up email accounts involves specifying account details and configuration options.
+[[Business Central]] supports email accounts through various extensions, enabling connections to Microsoft Exchange Online, Google Gmail, and other providers using SMTP. Setting up email accounts involves specifying account details and configuration options.
 
 #### Definitions
 - **Email Extensions**: Extensions enabling email account connections in Business Central.

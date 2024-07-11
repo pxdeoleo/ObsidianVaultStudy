@@ -1,5 +1,5 @@
 >[!summary]
->Business Central's Premium licensing offers advanced manufacturing capabilities, including setting up production orders, version management, and demand forecasting to streamline manufacturing processes.
+>[[Business Central]]'s Premium licensing offers advanced manufacturing capabilities, including setting up production orders, version management, and demand forecasting to streamline manufacturing processes.
 
 #### Definitions
 - Production Orders: Documents that manage the conversion of materials into finished products through defined routings and work centers.

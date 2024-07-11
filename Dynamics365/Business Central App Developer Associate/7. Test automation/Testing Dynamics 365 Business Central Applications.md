@@ -1,5 +1,5 @@
 > [!summary] 
-> Testing the functionality of Dynamics 365 Business Central applications to ensure proper operation before release. Emphasis on repeatable and automated tests, leveraging built-in testing features and best practices.
+> Testing the functionality of Dynamics 365 [[Business Central]] applications to ensure proper operation before release. Emphasis on repeatable and automated tests, leveraging built-in testing features and best practices.
 
 #### Definitions
 

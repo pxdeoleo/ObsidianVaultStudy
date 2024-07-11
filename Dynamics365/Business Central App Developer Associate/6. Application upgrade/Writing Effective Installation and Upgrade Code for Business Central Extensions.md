@@ -1,5 +1,5 @@
 >[!summary]
->Creating robust installation and upgrade code for Microsoft Dynamics 365 Business Central extensions is crucial for managing the lifecycle of apps effectively. This guide explains how to write and manage install and upgrade code units, ensuring compatibility and functionality across Business Central updates.
+>Creating robust installation and upgrade code for Microsoft Dynamics 365 [[Business Central]] extensions is crucial for managing the lifecycle of apps effectively. This guide explains how to write and manage install and upgrade code units, ensuring compatibility and functionality across Business Central updates.
 
 #### Definitions
 - **Install Codeunit**: A special type of codeunit used for executing code when an extension is installed or re-installed.

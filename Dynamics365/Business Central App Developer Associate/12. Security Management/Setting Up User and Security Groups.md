@@ -1,10 +1,10 @@
 
 >[!summary]  
-Manage permission sets for multiple users efficiently by setting up user groups and security groups in Business Central. User groups are Business Central-specific, while security groups are based on Microsoft 365 or Azure Active Directory and will eventually replace user groups.
+Manage permission sets for multiple users efficiently by setting up user groups and security groups in [[Business Central]]. User groups are Business Central-specific, while security groups are based on Microsoft 365 or Azure Active Directory and will eventually replace user groups.
 
 #### Definitions
 - **User Groups**: Collections of users within Business Central for easier permission management.
-- **Security Groups**: Microsoft 365 or Azure Active Directory-based groups for managing permissions across multiple Dynamics 365 applications.
+- **Security Groups**: Microsoft 365 or Azure Active Directory-based groups for managing permissions across multiple [[Dynamics 365 applications]].
 
 >[!info] Creating User Groups
 
@@ -29,7 +29,7 @@ Manage permission sets for multiple users efficiently by setting up user groups 
 >[!example] Linking Security Groups in Business Central
 
 1. **Search for Security Groups**: Use the search icon, enter "Security Groups," and choose the related link.
-2. **Create New Group**: Select New, enter a name, and specify the Microsoft Entra ID security group name.
+2. **Create New Group**: Select New, enter a name, and specify the [[Microsoft Entra]] ID security group name.
 3. **Assign Permissions**: On the Security Groups page, select the group and use the Permissions action to assign permission sets.
 
 >[!info] Permission Assignment

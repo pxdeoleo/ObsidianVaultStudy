@@ -1,5 +1,5 @@
 > [!summary] 
-> Business Central environments consist of Microsoft and third-party apps working together to meet various business needs. Regular updates add new features and fix issues. The Manage Apps page in the administration center helps manage these updates without the need for uninstallation and reinstallation.
+> [[Business Central]] environments consist of Microsoft and third-party apps working together to meet various business needs. Regular updates add new features and fix issues. The Manage Apps page in the administration center helps manage these updates without the need for uninstallation and reinstallation.
 #### Definitions
 
 - **Business Central Environment**: A collection of Microsoft and third-party apps.

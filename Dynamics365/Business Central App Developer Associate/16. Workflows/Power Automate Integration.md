@@ -1,5 +1,5 @@
 >[!summary] 
-With Business Central, you're provided with a license to Microsoft Power Automate, enabling you to create and run automated workflows using Business Central data and other internal and external sources. Power Automate supports automated, scheduled, and instant flows, which can be triggered by various events or run on-demand from within Business Central.
+With [[Business Central]], you're provided with a license to Microsoft Power Automate, enabling you to create and run automated [[workflows]] using Business Central data and other internal and external sources. Power Automate supports automated, scheduled, and instant flows, which can be triggered by various events or run on-demand from within Business Central.
 
 #### Definitions
 - **Power Automate**: A service for creating automated workflows between apps and services, enhancing efficiency by reducing manual tasks.

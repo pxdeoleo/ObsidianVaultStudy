@@ -1,4 +1,4 @@
-> [!summary] The Performance Toolkit (BCPT) is designed for ISVs and VARs to test the performance of Business Central solutions across different versions and user volumes. It helps simulate realistic workloads to compare performance between builds of their solutions.
+> [!summary] The Performance Toolkit (BCPT) is designed for ISVs and VARs to test the performance of [[Business Central]] solutions across different versions and user volumes. It helps simulate realistic workloads to compare performance between builds of their solutions.
 
 #### Definitions
 

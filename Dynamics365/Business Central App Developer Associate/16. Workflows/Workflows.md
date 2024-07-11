@@ -1,7 +1,7 @@
 >[!summary]
->Workflows in Business Central connect business-process tasks across different users, including system tasks like automatic posting. They streamline processes such as document approvals, notifications, and integration actions.
+>Workflows in [[Business Central]] connect business-process tasks across different users, including system tasks like automatic posting. They streamline processes such as document approvals, notifications, and integration actions.
 
-#### Workflow Uses in Business Central
+#### Workflow Uses in [[Business Central]]
 - **Approve Sales and Purchase Documents:** Submit documents for approval according to a predefined hierarchy.
 - **Approve Items, Customers, or Vendors:** Require approval for new entries or changes to critical fields.
 - **Notify Users:** Inform users about creation or changes of items, customers, or vendors.

@@ -1,5 +1,5 @@
 >[!summary]  
-The User Setup page in Business Central allows administrators to configure posting restrictions and assign responsibility centers to users in sales, purchase, or service departments. It also includes options to register work time, manage time sheets, and add contact details.
+The User Setup page in [[Business Central]] allows administrators to configure posting restrictions and assign responsibility centers to users in sales, purchase, or service departments. It also includes options to register work time, manage time sheets, and add contact details.
 
 #### Definitions
 - **User Setup**: Configuration settings for individual users, including posting periods, responsibility centers, and time sheet administration.

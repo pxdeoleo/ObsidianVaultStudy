@@ -1,5 +1,5 @@
 >[!summary]
->Setting up Visual Studio Code effectively for Business Central development involves configuring performance settings, using code analyzers, and customizing rulesets to streamline coding practices and enhance development efficiency.
+>Setting up Visual Studio Code effectively for [[Business Central]] development involves configuring performance settings, using code analyzers, and customizing rulesets to streamline coding practices and enhance development efficiency.
 
 #### Definitions
 - **Visual Studio Code**: A lightweight, powerful source code editor used for Business Central development.

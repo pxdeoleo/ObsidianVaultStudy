@@ -1,5 +1,5 @@
 >[!summary]
->Integration between Dynamics 365 Sales and Business Central streamlines the lead-to-cash process, enhancing data synchronization and operational efficiency.
+>Integration between Dynamics 365 Sales and [[Business Central]] streamlines the lead-to-cash process, enhancing data synchronization and operational efficiency.
 
 #### Definitions
 - Coupling: The process of linking specific records between Dynamics 365 Sales and Business Central to synchronize data.

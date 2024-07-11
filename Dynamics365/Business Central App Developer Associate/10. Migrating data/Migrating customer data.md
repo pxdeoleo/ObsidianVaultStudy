@@ -1,4 +1,4 @@
-> [!summary] Migrating customer data to Business Central can be accomplished using built-in migration tools, RapidStart Services, or configuration packages. These methods help move data from various sources into Business Central online or on-premises environments.
+> [!summary] Migrating customer data to [[Business Central]] can be accomplished using built-in migration tools, RapidStart Services, or configuration packages. These methods help move data from various sources into Business Central online or on-premises environments.
 
 #### Definitions
 
@@ -10,7 +10,7 @@
 > [!info] Migration Methods
 
 - **Built-in Migration Tools**: Use these to migrate data from supported product versions directly to Business Central online.
-- **Excel or RapidStart Services**: Migrate data to Business Central on-premises, then switch to the cloud if needed.
+- **Excel or RapidStart Services**: [[Migrate data to Business Central]] on-premises, then switch to the cloud if needed.
 - **Configuration Package Approach**: Import data using Excel or .rapidstart files from unsupported products or custom sources.
 
 > [!example] Configuration Package Approach

@@ -1,5 +1,5 @@
 > [!summary] 
-> As a Business Central partner, you can administer customer tenants through the Partner Center. You need to enroll in the Cloud Solution Provider program to manage administrative functions, including Windows upgrades.
+> As a [[Business Central]] partner, you can administer customer tenants through the Partner Center. You need to enroll in the Cloud Solution Provider program to manage administrative functions, including Windows upgrades.
 
 #### Enrollment and Customer Management
 

@@ -1,5 +1,5 @@
 >[!summary]
->Business Central's Service Management tools support effective management of service operations, from repair services to field operations, enhancing customer satisfaction and operational efficiency.
+>[[Business Central]]'s Service Management tools support effective management of service operations, from repair services to field operations, enhancing customer satisfaction and operational efficiency.
 
 #### Definitions
 - Service Management: A module in Business Central designed to manage, track, and optimize repair and field services.

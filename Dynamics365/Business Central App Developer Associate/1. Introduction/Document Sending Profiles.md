@@ -1,10 +1,10 @@
 >[!summary]
->Business Central enables efficient document distribution to customers through customizable document sending profiles, streamlining the process of sending sales documents.
+>[[Business Central]] enables efficient document distribution to customers through customizable document sending profiles, streamlining the process of sending sales documents.
 
 #### Definitions
 - Document Sending Profiles: Configurations that specify the preferred method of sending documents to customers, such as email or print.
 
->[!info] Setting Up Document Sending Profiles
+>[!info] [[Setting Up Document Sending Profiles]]
 
 Set up and assign specific document sending profiles for each customer to ensure documents are sent according to their preferences.
 

@@ -1,5 +1,5 @@
 >[!summary]
->Microsoft Learn provides comprehensive learning paths for developers looking to enhance their skills in Microsoft Dynamics 365 Business Central. These paths cover the fundamentals of development, customization, and the AL programming language, alongside specific guidelines for bringing offerings to market through the Ready to Go program.
+>Microsoft Learn provides comprehensive learning paths for developers looking to enhance their skills in Microsoft Dynamics 365 [[Business Central]]. These paths cover the fundamentals of development, customization, and the AL programming language, alongside specific guidelines for bringing offerings to market through the Ready to Go program.
 
 #### Definitions
 - **Learning Paths**: Structured educational courses designed to teach specific skills or knowledge in a systematic way.

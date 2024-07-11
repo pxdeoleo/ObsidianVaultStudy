@@ -3,7 +3,7 @@
 
 #### Definitions
 
-- **Performance profiler**: A tool for capturing and analyzing performance data within the Dynamics 365 Business Central application.
+- **Performance profiler**: A tool for capturing and analyzing performance data within the Dynamics 365 [[Business Central]] application.
 
 > [!info] Usage
 

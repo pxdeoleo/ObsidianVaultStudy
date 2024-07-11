@@ -1,5 +1,5 @@
 > [!summary] 
-> When signing up for Business Central, you can create an empty company to upload your data and test your setup. You can transfer information from various finance solutions, using available extensions or importing from Excel. Assisted setup guides and configuration packages help in importing and validating data.
+> When signing up for [[Business Central]], you can create an empty company to upload your data and test your setup. You can transfer information from various finance solutions, using available extensions or importing from Excel. Assisted setup guides and configuration packages help in importing and validating data.
 
 #### Definitions
 

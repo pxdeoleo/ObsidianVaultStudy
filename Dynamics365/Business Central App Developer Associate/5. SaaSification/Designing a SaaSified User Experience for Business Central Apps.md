@@ -1,5 +1,5 @@
 >[!summary]
->Creating a "SaaSified" app for Microsoft Dynamics 365 Business Central involves focusing on user-centric design principles to ensure quick adoption and ease of use. This approach emphasizes intuitive navigation, context-sensitive help, and minimal setup requirements, enabling users to leverage app functionality effectively without extensive training.
+>Creating a "SaaSified" app for Microsoft Dynamics 365 [[Business Central]] involves focusing on user-centric design principles to ensure quick adoption and ease of use. This approach emphasizes intuitive navigation, context-sensitive help, and minimal setup requirements, enabling users to leverage app functionality effectively without extensive training.
 
 #### Definitions
 - **SaaSified**: Refers to software designed as a service, focusing on ease of use, quick setup, and seamless user integration.

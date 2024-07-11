@@ -1,5 +1,5 @@
 > [!summary] 
-> Exporting databases from Business Central online environments to a local database involves creating an Azure storage account and generating a shared access signature (SAS) for secure file transfer.
+> Exporting databases from [[Business Central]] online environments to a local database involves creating an Azure storage account and generating a shared access signature (SAS) for secure file transfer.
 
 #### Definitions
 
@@ -30,7 +30,7 @@
 
 > [!example] Create Export File from Business Central
 
-1. In the Business Central administration center, go to the **Environments** list.
+1. In the [[Business Central]] administration center, go to the **Environments** list.
 2. Select the environment name to view details.
 3. On the action ribbon, select **Database** > **Create Database Export**.
 4. Fill in the fields:

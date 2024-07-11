@@ -1,12 +1,12 @@
 >[!summary]
->Library and dependency apps streamline code management in Dynamics 365 Business Central by sharing common code across multiple applications. Understanding their installation and management is crucial for effective application development and maintenance.
+>Library and dependency apps streamline code management in Dynamics 365 [[Business Central]] by sharing common code across multiple applications. Understanding their installation and management is crucial for effective application development and maintenance.
 
 #### Definitions
 - **Library App**: A non-visible app that contains shared code used by other apps, which is automatically managed and installed by Business Central.
-- **Dependency App**: Similar to a library app but listed on AppSource, requiring the installation of another app it depends on.
+- **Dependency App**: Similar to a library app but listed on [[AppSource]], requiring the installation of another app it depends on.
 
 >[!info] Role of Library Apps
-- Serve as a central repository for common code that multiple AppSource apps can utilize, enhancing maintainability and consistency.
+- Serve as a central repository for common code that multiple [[AppSource]] apps can utilize, enhancing maintainability and consistency.
 
 >[!bug] Challenges with Update Mechanisms
 - Current systems do not automatically update library apps when the main app is updated, potentially leading to compatibility issues.

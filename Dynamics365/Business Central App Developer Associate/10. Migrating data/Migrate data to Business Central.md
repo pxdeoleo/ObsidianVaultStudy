@@ -1,5 +1,5 @@
 > [!summary] 
-> Data migration in Business Central involves transferring your existing business data, such as general ledger accounts, customers, vendors, and items, into the new company setup. This process can be facilitated through an assisted setup guide and can include data from Excel or other applications.
+> Data migration in [[Business Central]] involves transferring your existing business data, such as general ledger accounts, customers, vendors, and items, into the new company setup. This process can be facilitated through an assisted setup guide and can include data from Excel or other applications.
 
 #### Definitions
 

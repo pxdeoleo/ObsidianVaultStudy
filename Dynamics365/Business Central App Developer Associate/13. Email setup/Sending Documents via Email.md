@@ -1,5 +1,5 @@
 >[!summary]  
-Business Central allows users to send documents such as invoices directly from within the application, eliminating the need to use a separate email app. Documents can be sent as PDF attachments or included in the email body using a customized report layout.
+[[Business Central]] allows users to send documents such as invoices directly from within the application, eliminating the need to use a separate email app. Documents can be sent as PDF attachments or included in the email body using a customized report layout.
 
 #### Definitions
 - **Document Sending Profile**: Specifies the preferred method for sending documents to customers and vendors.
@@ -42,4 +42,4 @@ Business Central allows users to send documents such as invoices directly from w
 - **Direct Email Sending**: Send documents directly from Business Central without needing an external email app.
 - **PDF Attachments**: Most documents can be sent as PDF attachments.
 - **Custom Email Content**: Use report layouts to include document information and personalized text in the email body.
-- **Configuration Options**: Set up Document Sending Profiles and Email Scenario Assignments to streamline the document sending process.
+- **Configuration Options**: Set up [[Document Sending Profiles]] and Email Scenario Assignments to streamline the document sending process.

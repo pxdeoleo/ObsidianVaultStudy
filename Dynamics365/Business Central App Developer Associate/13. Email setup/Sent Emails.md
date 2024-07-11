@@ -1,5 +1,5 @@
 >[!summary]  
-Business Central provides a Sent Emails page where users can view, resend, or forward emails sent from the system. This feature helps track and manage email communications efficiently.
+[[Business Central]] provides a Sent Emails page where users can view, resend, or forward emails sent from the system. This feature helps track and manage email communications efficiently.
 
 #### Definitions
 - **Sent Emails Page**: A page in Business Central where all sent emails are stored for review and management.

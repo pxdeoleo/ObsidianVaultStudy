@@ -1,5 +1,5 @@
 > [!summary] 
-> Minimizing business disruption due to service changes is crucial for Microsoft. Business Central customers receive monthly updates, including a major update every six months. Updates include fixes, design enhancements, and new features that may change the user experience. Administrators can manage these changes, allowing customers to prepare and drive digital transformation confidently.
+> Minimizing business disruption due to service changes is crucial for Microsoft. [[Business Central]] customers receive monthly updates, including a major update every six months. Updates include fixes, design enhancements, and new features that may change the user experience. Administrators can manage these changes, allowing customers to prepare and drive digital transformation confidently.
 
 #### Definitions
 

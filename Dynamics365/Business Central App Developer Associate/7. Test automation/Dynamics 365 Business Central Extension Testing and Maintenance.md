@@ -1,5 +1,5 @@
 > [!summary] 
-> Key points for testing Dynamics 365 Business Central Extensions to ensure error-free deployment and smooth user experience.
+> Key points for testing Dynamics 365 [[Business Central]] Extensions to ensure error-free deployment and smooth user experience.
 
 #### Definitions
 

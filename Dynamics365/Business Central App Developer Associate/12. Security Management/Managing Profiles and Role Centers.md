@@ -1,5 +1,5 @@
 >[!summary]  
-Profiles in Business Central define organizational roles and their settings, such as the home screen. Administrators can customize profiles to suit departmental needs and assign users to appropriate profiles for role-specific access.
+Profiles in [[Business Central]] define organizational roles and their settings, such as the home screen. Administrators can customize profiles to suit departmental needs and assign users to appropriate profiles for role-specific access.
 
 #### Definitions
 - **Profile**: A collection of settings and permissions for a group of users sharing the same Role Center.

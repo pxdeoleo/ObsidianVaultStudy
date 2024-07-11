@@ -1,5 +1,5 @@
 >[!summary]
->Business Central Outlook add-ins enable managing customer and vendor interactions, viewing financial data, and sending documents directly from Outlook. Integration with Microsoft 365 ensures seamless operation, and setup can be done through an assisted guide.
+>[[Business Central]] Outlook add-ins enable managing customer and vendor interactions, viewing financial data, and sending documents directly from Outlook. Integration with Microsoft 365 ensures seamless operation, and setup can be done through an assisted guide.
 #### Setting Up Business Central in Outlook
 - Use the assisted setup guide to integrate Business Central with Outlook.
 - For Microsoft 365 users, provide your username and password.

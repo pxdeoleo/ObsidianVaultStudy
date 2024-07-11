@@ -1,5 +1,5 @@
 >[!summary]  
-Email scenarios in Business Central are processes involving sending documents or notifications. Specific email accounts can be assigned to different scenarios to streamline communications. The default email account is used for all scenarios that are not explicitly assigned to another account.
+Email scenarios in [[Business Central]] are processes involving sending documents or notifications. Specific email accounts can be assigned to different scenarios to streamline communications. The default email account is used for all scenarios that are not explicitly assigned to another account.
 #### Definitions
 - **Email Scenario**: A predefined process involving sending specific documents or notifications, such as sales or purchase orders.
 - **Email Scenario Assignment**: The configuration linking specific email accounts to different email scenarios.

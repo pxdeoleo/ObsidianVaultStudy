@@ -1,5 +1,5 @@
 >[!summary]
->Integrating your services with Dynamics 365 Business Central enhances your offerings, making them more valuable and accessible. You can create Connect apps using REST APIs or develop Add-on apps using AL language in Visual Studio Code, both aimed at enriching Business Central functionalities.
+>Integrating your services with Dynamics 365 [[Business Central]] enhances your offerings, making them more valuable and accessible. You can create Connect apps using REST APIs or develop Add-on apps using AL language in Visual Studio Code, both aimed at enriching Business Central functionalities.
 
 #### Definitions
 - **Connect App**: An integration that establishes a data-level connection between Business Central and third-party services, typically created using REST APIs.
@@ -8,7 +8,7 @@
 >[!info] Why Integrate with Business Central?
 - Leverage ready-to-use APIs for seamless integration.
 - Bundle your services to enhance customer investment value.
-- Utilize Microsoft AppSource to extend your market reach.
+- Utilize Microsoft [[AppSource]] to extend your market reach.
 - Engage with the vibrant Business Central community.
 
 >[!bug] Challenges in Integration

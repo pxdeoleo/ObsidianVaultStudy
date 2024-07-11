@@ -1,5 +1,5 @@
 >[!summary]
->AppSource is a marketplace within Microsoft Dynamics 365 Business Central that enables partners to list and promote their custom solutions and services, facilitating connections with customers and driving business growth.
+>AppSource is a marketplace within Microsoft Dynamics 365 [[Business Central]] that enables partners to list and promote their custom solutions and services, facilitating connections with customers and driving business growth.
 
 #### Definitions
 - AppSource: A digital marketplace for business applications and services integrated with Microsoft platforms.

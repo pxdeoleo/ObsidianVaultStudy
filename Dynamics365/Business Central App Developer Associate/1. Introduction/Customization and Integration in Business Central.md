@@ -1,5 +1,5 @@
 >[!summary]
->Business Central supports extensive customization and integration capabilities, including no-code solutions with Microsoft Power Platform, advanced customization with Visual Studio Code, and practical applications through AppSource.
+>[[Business Central]] supports extensive customization and integration capabilities, including no-code solutions with Microsoft Power Platform, advanced customization with Visual Studio Code, and practical applications through [[AppSource]].
 
 #### Definitions
 - Extensions: Custom developments in Business Central that enhance or modify functionality without altering the base code.
@@ -23,7 +23,7 @@ Utilize AppSource to find and implement applications that enhance or extend the 
 
 >[!attention] Integrating with Microsoft 365
 
-Seamlessly integrate with Microsoft 365 to enhance productivity and streamline operations, using tools like Outlook for direct business interactions.
+Seamlessly [[Microsoft 365 Integration in Business Central|integrate with Microsoft 365]] to enhance productivity and streamline operations, using tools like Outlook for direct business interactions.
 
 >[!example] Setting Up Integrations
 

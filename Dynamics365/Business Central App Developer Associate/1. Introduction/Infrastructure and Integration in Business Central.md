@@ -1,5 +1,5 @@
 >[!summary]
->Business Central utilizes Internet Information Services (IIS), Service Tiers (NST), and databases (DB) to provide a robust web-based environment, supporting multi-tenant architecture and seamless integration with external applications through web services.
+>[[Business Central]] utilizes Internet Information Services (IIS), Service Tiers (NST), and databases (DB) to provide a robust web-based environment, supporting multi-tenant architecture and seamless integration with external applications through web services.
 
 #### Definitions
 - IIS: Internet Information Services, which hosts the Business Central Web Server instance for client access.
@@ -26,9 +26,9 @@ Utilize the Business Central REST API to develop connect apps, allowing integrat
 
 Understand and utilize the multi-tenant architecture of Business Central, which stores each tenant's data separately but shares a common data schema across localizations.
 
->[!example] Authenticating Users with Microsoft Entra ID
+>[!example] Authenticating Users with [[Microsoft Entra]] ID
 
-Configure the Business Central server instance to use Microsoft Entra ID for user authentication, linking Business Central accounts with Microsoft 365 for unified access across applications.
+Configure the Business Central server instance to use [[Microsoft Entra]] ID for user authentication, linking Business Central accounts with Microsoft 365 for unified access across applications.
 
 >[!info] Administrative Capabilities
 

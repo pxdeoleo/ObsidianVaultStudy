@@ -1,5 +1,5 @@
 >[!summary]
->Business Central and Exchange Online provide automated email communication tracking in opportunity management, enhancing business value by logging interactions for salespeople and contacts.
+>[[Business Central]] and Exchange Online provide automated email communication tracking in opportunity management, enhancing business value by logging interactions for salespeople and contacts.
 
 #### Setup Email Interaction Logging
 - Create a connection to Microsoft 365 Exchange Online.

@@ -1,5 +1,5 @@
 >[!summary]
->The Business Central Document Links add-in provides quick access to documents mentioned in email messages, while contact synchronization ensures consistent contact information across Business Central and Outlook.
+>The [[Business Central]] Document Links add-in provides quick access to documents mentioned in email messages, while contact synchronization ensures consistent contact information across Business Central and Outlook.
 
 #### Document Links Add-in
 - Available if a document number is recognized in an email body.

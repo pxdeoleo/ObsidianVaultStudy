@@ -8,7 +8,7 @@
 
 > [!info] Creating Journal Lines
 
-- Use Business Central functions to prepare journal lines efficiently.
+- Use [[Business Central]] functions to prepare journal lines efficiently.
 - Functions include:
     - Create G/L Account Journal Lines
     - Create Customer Journal Lines

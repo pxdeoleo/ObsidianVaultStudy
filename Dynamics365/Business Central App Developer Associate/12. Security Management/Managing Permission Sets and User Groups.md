@@ -1,10 +1,10 @@
 >[!summary]  
-Permission sets in Business Central define user access to database objects and UI elements. Administrators manage permissions by creating, modifying, and assigning permission sets to users or groups.
+Permission sets in [[Business Central]] define user access to database objects and UI elements. Administrators manage permissions by creating, modifying, and assigning permission sets to users or groups.
 
 #### Definitions
 - **Permission Set**: A collection of permissions for specific database objects in Business Central.
 - **User Groups**: Collections of users to streamline permission management.
-- **Security Groups**: Microsoft 365/Azure-based groups for managing permissions across Dynamics 365 applications.
+- **Security Groups**: Microsoft 365/Azure-based groups for managing permissions across [[Dynamics 365 applications]].
 
 >[!info] Assigning Permission Sets
 
@@ -48,7 +48,7 @@ Indirect permissions allow a user to perform actions on an object through anothe
 
 >[!tip] User Email Policies
 
-- **Email View Policies**: Control which emails users can view in the Email Outbox and Sent Emails pages.
+- **Email View Policies**: Control which emails users can view in the Email Outbox and [[Sent Emails]] pages.
 
 >[!info] Effective Permissions
 

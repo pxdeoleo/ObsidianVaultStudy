@@ -1,4 +1,4 @@
-> [!summary] Business Central emits telemetry data for various activities and operations on tenants and extensions. Telemetry can be sent to Application Insights for analysis, allowing for monitoring of tenant activities and diagnosing performance issues.
+> [!summary] [[Business Central]] emits telemetry data for various activities and operations on tenants and extensions. Telemetry can be sent to Application Insights for analysis, allowing for monitoring of tenant activities and diagnosing performance issues.
 
 #### Definitions
 

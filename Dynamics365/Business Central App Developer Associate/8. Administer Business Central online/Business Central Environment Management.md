@@ -1,5 +1,5 @@
 > [!summary] 
-> The Environments tab of the Business Central administration center provides tools to manage production and sandbox environments, update schedules, and environment capacity. It is essential for managing Business Central's deployments and configurations.
+> The Environments tab of the [[Business Central]] administration center provides tools to manage production and sandbox environments, update schedules, and environment capacity. It is essential for managing Business Central's deployments and configurations.
 
 #### Definitions
 
@@ -79,7 +79,7 @@
 
 > [!info] Transferring Environments
 
-- Self-service transfer between Microsoft Entra tenants.
+- Self-service transfer between [[Microsoft Entra]] tenants.
 - Requires admin approval from both source and target tenants.
 
 > [!info] Managing Access

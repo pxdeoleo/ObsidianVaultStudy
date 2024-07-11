@@ -1,5 +1,5 @@
 >[!summary]
->For tenant-specific customizations or per-tenant extensions in Microsoft Dynamics 365 Business Central, developers must proactively manage the lifecycle and compatibility of their extensions with ongoing Business Central updates to ensure uninterrupted service.
+>For tenant-specific customizations or per-tenant extensions in Microsoft Dynamics 365 [[Business Central]], developers must proactively manage the lifecycle and compatibility of their extensions with ongoing Business Central updates to ensure uninterrupted service.
 
 #### Definitions
 - **Tenant-Specific Customization**: Modifications or extensions tailored to a single Business Central tenant.

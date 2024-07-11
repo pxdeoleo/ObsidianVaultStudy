@@ -1,9 +1,9 @@
 >[!summary] 
-Updating your app for Business Central involves submitting the updated app file to Partner Center, undergoing validation, and ensuring version compatibility. Follow best practices to manage versioning, dependencies, and hotfixes.
+Updating your app for [[Business Central]] involves submitting the updated app file to Partner Center, undergoing validation, and ensuring version compatibility. Follow best practices to manage versioning, dependencies, and hotfixes.
 
 #### Definitions
 - **App Update**: The process of submitting a new version of your app to Business Central.
-- **AppSource**: The marketplace where Business Central apps are published and updated.
+- **[[AppSource]]**: The marketplace where Business Central apps are published and updated.
 
 >[!info] Update Process
 - Submit the updated app file to Partner Center.

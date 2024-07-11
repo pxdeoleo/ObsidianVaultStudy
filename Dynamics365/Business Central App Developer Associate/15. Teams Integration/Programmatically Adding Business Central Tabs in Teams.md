@@ -1,5 +1,5 @@
 >[!summary]
->Programmatically add Business Central tabs in Microsoft Teams channels and chats using the Microsoft Graph API. Ensure the user has access to the Business Central app for Teams for successful execution.
+>Programmatically add [[Business Central]] tabs in Microsoft Teams channels and chats using the Microsoft Graph API. Ensure the user has access to the Business Central app for Teams for successful execution.
 
 #### Adding Business Central Tabs via Graph API
 - Use Microsoft Graph API to create channels, chats, and tabs in Teams.

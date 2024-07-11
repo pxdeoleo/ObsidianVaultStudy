@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "25952e92f8a19022",
+        "id": "8c4174bd2e05956e",
         "type": "tabs",
         "children": [
           {
-            "id": "0bb8ac1d88034829",
+            "id": "37added0c6d20470",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Central App Developer Associate/16. Workflows/Workflow Notifications.md",
+                "file": "Business Central App Developer Associate/1. Introduction/Service Management.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5004348754883,
-    "collapsed": true
+    "width": 406.5004348754883
   },
   "right": {
     "id": "138fd9cde58f21af",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Central App Developer Associate/16. Workflows/Workflow Notifications.md",
+                "file": "Business Central App Developer Associate/1. Introduction/Service Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +103,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Central App Developer Associate/16. Workflows/Workflow Notifications.md",
+                "file": "Business Central App Developer Associate/1. Introduction/Service Management.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Central App Developer Associate/16. Workflows/Workflow Notifications.md"
+                "file": "Business Central App Developer Associate/1. Introduction/Service Management.md"
               }
             }
           },
@@ -140,12 +139,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,45 +155,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bb8ac1d88034829",
+  "active": "37added0c6d20470",
   "lastOpenFiles": [
+    "Business Central App Developer Associate/1. Introduction/Infrastructure and Integration in Business Central.md",
+    "Business Central App Developer Associate/1. Introduction/Human Resources Management.md",
+    "Business Central App Developer Associate/1. Introduction/Streamlining Supply Chain in Business Central.md",
+    "Business Central App Developer Associate/1. Introduction/Document Sending Profiles.md",
+    "Business Central App Developer Associate/1. Introduction/Customization and Integration in Business Central.md",
+    "Business Central App Developer Associate/1. Introduction/Business Central.md",
+    "Business Central App Developer Associate/18. Development Environment/Segment AL Code.md",
+    "Business Central App Developer Associate/bcentral-notes.zip",
+    "Business Central App Developer Associate/18. Development Environment/Opening Visual Studio Code from Business Central Web Client.md",
+    "Business Central App Developer Associate/18. Development Environment/Mutilple AL Extensions on a single workspace.md",
+    "Business Central App Developer Associate/18. Development Environment/Logical Database Discovery.md",
+    "Business Central App Developer Associate/18. Development Environment/JSON Configuration files.md",
+    "Business Central App Developer Associate/18. Development Environment/Differences between base app and system app.md",
+    "Business Central App Developer Associate/18. Development Environment/Create a Business Central extension in VSCode.md",
+    "Business Central App Developer Associate/18. Development Environment/AL Language Extension for VSCode.md",
+    "Business Central App Developer Associate/18. Development Environment/AL Language Extension Configuration.md",
+    "Business Central App Developer Associate/18. Development Environment/Visual Studio Code for Business Central.md",
+    "Business Central App Developer Associate/2. Best practices/AppSource.md",
+    "Business Central App Developer Associate/7. Test automation/Dynamics 365 Business Central Extension Testing and Maintenance.md",
+    "Business Central App Developer Associate/7. Test automation/Page Scripting Tool for Business Central.md",
+    "Business Central App Developer Associate/18. Development Environment",
+    "new_table_new_fields.png",
+    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Test Framework and tools/Document and fix issues.md",
+    "Business Central App Developer Associate/17. Approval Workflows/Request for approval delegation.md",
+    "Business Central App Developer Associate/17. Approval Workflows/Overdue Approval Request Workflow.md",
+    "Business Central App Developer Associate/17. Approval Workflows/Approval Requests.md",
+    "Business Central App Developer Associate/16. Workflows/Workflows.md",
     "Business Central App Developer Associate/16. Workflows/Workflow Notifications.md",
     "Business Central App Developer Associate/16. Workflows/Workflow Creation from Templates.md",
-    "Business Central App Developer Associate/16. Workflows/Power Automate Integration.md",
-    "Business Central App Developer Associate/16. Workflows/Workflow Creation and Components.md",
-    "Business Central App Developer Associate/16. Workflows/Workflows.md",
-    "Business Central App Developer Associate/15. Teams Integration/Session and Environment Information in Business Central for Teams.md",
+    "Business Central App Developer Associate/17. Approval Workflows",
     "Business Central App Developer Associate/16. Workflows",
-    "Business Central App Developer Associate/15. Teams Integration/Teams integration setup.md",
-    "Business Central App Developer Associate/15. Teams Integration/Customizing Fields for Teams.md",
-    "Business Central App Developer Associate/15. Teams Integration/Programmatically Adding Business Central Tabs in Teams.md",
-    "Untitled.md",
-    "Business Central App Developer Associate/14. Outlook integration/Document Links and Contact Synchronization in Outlook.md",
     "Business Central App Developer Associate/15. Teams Integration",
-    "Business Central App Developer Associate/14. Outlook integration/Customer Quotes and Vendor Invoices with Outlook Add-in.md",
-    "Business Central App Developer Associate/14. Outlook integration/Outlook Add-ins Setup.md",
-    "Business Central App Developer Associate/14. Outlook integration/Email logging.md",
-    "Business Central App Developer Associate/13. Email setup/Sent Emails.md",
     "Business Central App Developer Associate/14. Outlook integration",
-    "Business Central App Developer Associate/13. Email setup/Sending Orders by Email.md",
-    "Business Central App Developer Associate/13. Email setup/Sending Documents via Email.md",
-    "Business Central App Developer Associate/13. Email setup/Assigning Email Scenarios.md",
-    "Business Central App Developer Associate/13. Email setup/Setting Up Document Sending Profiles.md",
-    "Business Central App Developer Associate/13. Email setup/Composing and Sending Emails.md",
-    "Business Central App Developer Associate/13. Email setup/Setting Up Email Accounts.md",
     "Business Central App Developer Associate/13. Email setup",
-    "Business Central App Developer Associate/12. Security Management/Untitled.md",
-    "Business Central App Developer Associate/12. Security Management/Untitled 1.md",
-    "Business Central App Developer Associate/12. Security Management/Auditing Changes and Monitoring Sensitive Fields.md",
-    "Business Central App Developer Associate/12. Security Management/Configuring User Setup.md",
-    "Business Central App Developer Associate/12. Security Management/Managing Profiles and Role Centers.md",
     "Business Central App Developer Associate/12. Security Management",
     "Business Central App Developer Associate/11. Migrating from on-premise",
     "Business Central App Developer Associate/10. Migrating data",
-    "Business Central App Developer Associate/9. Create companies in Business Central",
-    "Business Central App Developer Associate/8. Administer Business Central online",
-    "Business Central App Developer Associate/7. Test automation",
-    "Untitled.canvas",
-    "new_table_new_fields.png"
+    "Untitled.canvas"
   ]
 }

@@ -1,5 +1,5 @@
 >[!summary]
->Dynamics 365 Business Central offers a variety of subscription types and licensing options to cater to different user needs within an organization, from full users to external users.
+>Dynamics 365 [[Business Central]] offers a variety of subscription types and licensing options to cater to different user needs within an organization, from full users to external users.
 
 #### Definitions
 - Internal Users: Employees or contractors directly associated with the organization.

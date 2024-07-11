@@ -1,5 +1,5 @@
 > [!summary] 
-> Telemetry in Business Central can be enabled at both the environment level and the app/extension level, allowing for comprehensive tracking and analysis of system performance, errors, and usage.
+> Telemetry in [[Business Central]] can be enabled at both the environment level and the app/extension level, allowing for comprehensive tracking and analysis of system performance, errors, and usage.
 
 #### Definitions
 
@@ -35,7 +35,7 @@
 
 > [!example] Analyzing and Monitoring Telemetry with Power BI
 
-1. **Install Power BI apps from Microsoft AppSource:**
+1. **Install Power BI apps from Microsoft [[AppSource]]:**
     - **For environment telemetry:** Go to [bctelemetryreport](https://aka.ms/bctelemetryreport).
     - **For app telemetry:** Go to [bctelemetry-isv-app](https://aka.ms/bctelemetry-isv-app).
 2. Follow instructions to install the app.

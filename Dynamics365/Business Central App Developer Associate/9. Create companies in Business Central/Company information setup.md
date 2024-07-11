@@ -1,5 +1,5 @@
 > [!summary] 
-> To ensure accurate reporting and fiscal documentation, it is important to correctly set up the Company Information page in Business Central. This involves entering data into several FastTabs including General, Communication, Payments, Shipping, Company Badge, and User Experience.
+> To ensure accurate reporting and fiscal documentation, it is important to correctly set up the Company Information page in [[Business Central]]. This involves entering data into several FastTabs including General, Communication, Payments, Shipping, Company Badge, and User Experience.
 
 #### Definitions
 
@@ -34,7 +34,7 @@
 
 - Set the user experience to determine displayed UI elements and available features.
 - **Essential**: Displays all actions and fields for common business functionality.
-- **Premium**: Displays all actions and fields for all business functionality, including Manufacturing and Service Management.
+- **Premium**: Displays all actions and fields for all business functionality, including Manufacturing and [[Service Management]].
 
 > [!example] Steps to Set Up Company Information
 

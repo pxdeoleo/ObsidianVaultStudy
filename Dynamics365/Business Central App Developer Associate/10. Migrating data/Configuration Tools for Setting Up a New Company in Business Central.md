@@ -1,5 +1,5 @@
 > [!summary] 
-> Configuration tools in Business Central facilitate the setup and initialization of new companies by creating packages with setup data and master data tables. These tools enhance the efficiency and quality of implementations for Microsoft partners.
+> Configuration tools in [[Business Central]] facilitate the setup and initialization of new companies by creating packages with setup data and master data tables. These tools enhance the efficiency and quality of implementations for Microsoft partners.
 
 #### Definitions
 

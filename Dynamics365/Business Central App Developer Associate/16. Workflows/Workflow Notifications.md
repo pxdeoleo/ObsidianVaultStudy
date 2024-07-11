@@ -1,5 +1,5 @@
 > [!summary]
-> Notifications in Business Central can be set up to alert users of events requiring their attention. Notifications can be for new records, approvals, or overdue reminders and can be delivered via email or internal note.
+> Notifications in [[Business Central]] can be set up to alert users of events requiring their attention. Notifications can be for new records, approvals, or overdue reminders and can be delivered via email or internal note.
 
 #### Definitions
 - **Notification Type:** Categorizes notifications as New Record, Approval, or Overdue.
@@ -11,7 +11,7 @@
 
 > [!example] Notification Types
 - **New Record:** Alerts about new or changed records.
-- **Approval:** Alerts for approval requests.
+- **Approval:** Alerts for [[approval requests]].
 - **Overdue:** Reminds users of overdue actions.
 
 > [!example] Notification Method

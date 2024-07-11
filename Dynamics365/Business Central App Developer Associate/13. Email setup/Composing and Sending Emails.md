@@ -1,5 +1,5 @@
 >[!summary]  
-The Compose an Email function in Business Central allows users to write and send emails with similar functionality to email apps like Microsoft Outlook. Users can format messages, add attachments, and manage email details.
+The Compose an Email function in [[Business Central]] allows users to write and send emails with similar functionality to email apps like Microsoft Outlook. Users can format messages, add attachments, and manage email details.
 
 #### Definitions
 - **Compose an Email**: A function in Business Central for writing and sending emails directly from the application.

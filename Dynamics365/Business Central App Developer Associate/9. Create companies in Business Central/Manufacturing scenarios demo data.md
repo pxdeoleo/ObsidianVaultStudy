@@ -1,5 +1,5 @@
 > [!summary] 
-> Business Central includes a demo tool and demo data set designed for manufacturing scenarios, featuring the fictitious company Contoso Coffee. This extension helps presales specialists demonstrate premium capabilities by installing it in any environment.
+> [[Business Central]] includes a demo tool and demo data set designed for manufacturing scenarios, featuring the fictitious company Contoso Coffee. This extension helps presales specialists demonstrate premium capabilities by installing it in any environment.
 
 #### Definitions
 

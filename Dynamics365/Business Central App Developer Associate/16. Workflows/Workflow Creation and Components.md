@@ -1,5 +1,5 @@
 >[!summary]
-A workflow in Dynamics 365 Business Central consists of three components: Workflow Event, Workflow Condition, and Workflow Response.
+A workflow in Dynamics 365 [[Business Central]] consists of three components: Workflow Event, Workflow Condition, and Workflow Response.
 
 #### Definitions
 - **Workflow Event**: An action within the system that triggers a response.
@@ -8,9 +8,9 @@ A workflow in Dynamics 365 Business Central consists of three components: Workfl
 
 >[!example] Procedure to Create a Workflow
 
-1. **Accessing Workflows**:
+1. **Accessing [[Workflows]]**:
    - Select the search icon in the upper-right corner.
-   - Enter "workflows" and select the related link.
+   - Enter "[[workflows]]" and select the related link.
 2. **Creating a New Workflow**:
    - Select **New**.
    - **Code field**: Enter up to 20 characters to identify the workflow (e.g., `US-CUSTLIM_01`).

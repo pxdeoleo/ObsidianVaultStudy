@@ -1,5 +1,5 @@
 >[!summary]  
-Business Central provides tools to audit changes and monitor sensitive fields. The change log tracks modifications to data, and field monitoring notifies administrators of changes to critical data fields.
+[[Business Central]] provides tools to audit changes and monitor sensitive fields. The change log tracks modifications to data, and field monitoring notifies administrators of changes to critical data fields.
 
 #### Definitions
 - **Change Log**: Tracks direct modifications made by users to data in specified tables and fields.
