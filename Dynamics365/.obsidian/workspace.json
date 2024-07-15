@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "8c4174bd2e05956e",
+        "id": "2ebb119f35bdc5a0",
         "type": "tabs",
         "children": [
           {
-            "id": "37added0c6d20470",
+            "id": "aa313fa444b1bbaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Central App Developer Associate/1. Introduction/Service Management.md",
+                "file": "Business Central App Developer Associate/21. Entitlements and permission sets/Entitlements and Permissions in AL.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7f3a615573d34bf6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Central App Developer Associate/21. Entitlements and permission sets/Inherent Permissions.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5004348754883
+    "width": 406.5004348754883,
+    "collapsed": true
   },
   "right": {
     "id": "138fd9cde58f21af",
@@ -86,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Central App Developer Associate/1. Introduction/Service Management.md",
+                "file": "Business Central App Developer Associate/21. Entitlements and permission sets/Inherent Permissions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Central App Developer Associate/1. Introduction/Service Management.md",
+                "file": "Business Central App Developer Associate/21. Entitlements and permission sets/Inherent Permissions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Central App Developer Associate/1. Introduction/Service Management.md"
+                "file": "Business Central App Developer Associate/21. Entitlements and permission sets/Inherent Permissions.md"
               }
             }
           },
@@ -143,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,45 +171,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37added0c6d20470",
+  "active": "7f3a615573d34bf6",
   "lastOpenFiles": [
-    "Business Central App Developer Associate/1. Introduction/Infrastructure and Integration in Business Central.md",
-    "Business Central App Developer Associate/1. Introduction/Human Resources Management.md",
-    "Business Central App Developer Associate/1. Introduction/Streamlining Supply Chain in Business Central.md",
-    "Business Central App Developer Associate/1. Introduction/Document Sending Profiles.md",
-    "Business Central App Developer Associate/1. Introduction/Customization and Integration in Business Central.md",
-    "Business Central App Developer Associate/1. Introduction/Business Central.md",
-    "Business Central App Developer Associate/18. Development Environment/Segment AL Code.md",
+    "Business Central App Developer Associate/21. Entitlements and permission sets/Entitlements and Permissions in AL.md",
+    "Business Central App Developer Associate/21. Entitlements and permission sets/Inherent Permissions.md",
+    "Business Central App Developer Associate/21. Entitlements and permission sets/Entitlements and Permissions.md",
+    "Business Central App Developer Associate/21. Entitlements and permission sets/Access Control.md",
+    "Business Central App Developer Associate/21. Entitlements and permission sets",
+    "Business Central App Developer Associate/20. Pages/Page designer.md",
+    "Business Central App Developer Associate/20. Pages/Page extensions.md",
+    "Business Central App Developer Associate/20. Pages/UsageCategory Property.md",
+    "Business Central App Developer Associate/20. Pages/Rich Text Editing.md",
+    "Business Central App Developer Associate/20. Pages/Pages Overview.md",
+    "Business Central App Developer Associate/20. Pages/Page types.md",
+    "Business Central App Developer Associate/20. Pages/Page properties.md",
+    "Business Central App Developer Associate/20. Pages/Link pages with page parts.md",
+    "Business Central App Developer Associate/20. Pages/Defining Actions.md",
+    "Business Central App Developer Associate/20. Pages/Customizing UI Fields.md",
+    "Business Central App Developer Associate/20. Pages/Control Properties.md",
+    "Business Central App Developer Associate/20. Pages/Build page layout with controls.md",
+    "Business Central App Developer Associate/19. Tables/TableRelation Property.md",
+    "Business Central App Developer Associate/19. Tables/TableExtension Object.md",
+    "Business Central App Developer Associate/19. Tables/Table types.md",
+    "Business Central App Developer Associate/19. Tables/Table extensions.md",
+    "Business Central App Developer Associate/19. Tables/Primary and Secondary keys.md",
+    "Business Central App Developer Associate/19. Tables/Fields and properties.md",
+    "Business Central App Developer Associate/19. Tables/Field Groups Definitions and Usage.md",
+    "Business Central App Developer Associate/19. Tables/Extension Objects in AL.md",
+    "Business Central App Developer Associate/19. Tables/Defining Field Groups.md",
+    "Business Central App Developer Associate/19. Tables/Configure table properties.md",
+    "Business Central App Developer Associate/20. Pages",
+    "Business Central App Developer Associate/19. Tables",
     "Business Central App Developer Associate/bcentral-notes.zip",
-    "Business Central App Developer Associate/18. Development Environment/Opening Visual Studio Code from Business Central Web Client.md",
-    "Business Central App Developer Associate/18. Development Environment/Mutilple AL Extensions on a single workspace.md",
-    "Business Central App Developer Associate/18. Development Environment/Logical Database Discovery.md",
-    "Business Central App Developer Associate/18. Development Environment/JSON Configuration files.md",
-    "Business Central App Developer Associate/18. Development Environment/Differences between base app and system app.md",
-    "Business Central App Developer Associate/18. Development Environment/Create a Business Central extension in VSCode.md",
-    "Business Central App Developer Associate/18. Development Environment/AL Language Extension for VSCode.md",
-    "Business Central App Developer Associate/18. Development Environment/AL Language Extension Configuration.md",
-    "Business Central App Developer Associate/18. Development Environment/Visual Studio Code for Business Central.md",
-    "Business Central App Developer Associate/2. Best practices/AppSource.md",
-    "Business Central App Developer Associate/7. Test automation/Dynamics 365 Business Central Extension Testing and Maintenance.md",
-    "Business Central App Developer Associate/7. Test automation/Page Scripting Tool for Business Central.md",
     "Business Central App Developer Associate/18. Development Environment",
     "new_table_new_fields.png",
-    "Finance and Operations Apps Developer/1. Introduction to developing with finance and operations apps/Test Framework and tools/Document and fix issues.md",
-    "Business Central App Developer Associate/17. Approval Workflows/Request for approval delegation.md",
-    "Business Central App Developer Associate/17. Approval Workflows/Overdue Approval Request Workflow.md",
-    "Business Central App Developer Associate/17. Approval Workflows/Approval Requests.md",
-    "Business Central App Developer Associate/16. Workflows/Workflows.md",
-    "Business Central App Developer Associate/16. Workflows/Workflow Notifications.md",
-    "Business Central App Developer Associate/16. Workflows/Workflow Creation from Templates.md",
     "Business Central App Developer Associate/17. Approval Workflows",
     "Business Central App Developer Associate/16. Workflows",
     "Business Central App Developer Associate/15. Teams Integration",
     "Business Central App Developer Associate/14. Outlook integration",
     "Business Central App Developer Associate/13. Email setup",
-    "Business Central App Developer Associate/12. Security Management",
-    "Business Central App Developer Associate/11. Migrating from on-premise",
-    "Business Central App Developer Associate/10. Migrating data",
     "Untitled.canvas"
   ]
 }
