@@ -1,8 +1,8 @@
 >[!summary]
-Business Central employs entitlements and permissions to manage access to its functionalities. Entitlements define access based on the license or Microsoft Entra ID role, while permissions are assigned by administrators or partners through permission sets.
+[[Business Central]] employs entitlements and permissions to manage access to its functionalities. Entitlements define access based on the license or Microsoft Entra ID role, while permissions are assigned by administrators or partners through permission sets.
 
 #### Definitions
-- **Entitlements**: Access rights to Business Central objects as per the license or Microsoft Entra ID role.
+- **Entitlements**: Access rights to Business Central objects as per the license or [[Microsoft Entra]] ID role.
 - **Permissions**: Access rights assigned by administrators/partners via permission sets.
 - **Permission Sets**: Logical groups of permissions assigned to users.
 
@@ -15,7 +15,7 @@ Entitlements determine which Business Central objects a customer can use, based 
 Permissions specify the objects users can access, assigned through permission sets by administrators or partners. These sets group permissions logically and can be assigned explicitly or via user groups.
 
 #### Permission Sets Scope
-- Predefined by Microsoft or software providers (ISV apps from AppSource).
+- Predefined by Microsoft or software providers (ISV apps from [[AppSource]]).
 - System permission sets are predefined and non-editable but can be copied for creating user-defined sets.
 - User-defined permission sets can be created from scratch or as copies of system sets and are editable.
 

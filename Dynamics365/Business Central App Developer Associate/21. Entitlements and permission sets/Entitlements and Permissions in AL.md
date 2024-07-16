@@ -1,5 +1,5 @@
 >[!summary]
-When developing an app in AL for Dynamics 365 Business Central, you can handle entitlements and permission sets as objects, and you can extend existing permission sets. Object types include EntitlementObject, PermissionSet, and PermissionSetExtension.
+When developing an app in AL for Dynamics 365 [[Business Central]], you can handle entitlements and permission sets as objects, and you can extend existing permission sets. Object types include EntitlementObject, PermissionSet, and PermissionSetExtension.
 
 ### Definitions
 - **EntitlementObject**: Defines what objects a customer can use based on their license or role.
@@ -7,7 +7,7 @@ When developing an app in AL for Dynamics 365 Business Central, you can handle e
 - **PermissionSetExtension**: Extends permissions of an existing PermissionSet.
 
 >[!info] Entitlement Object
-- **Description**: Describes objects a customer is entitled to use according to their license or Microsoft Entra ID role.
+- **Description**: Describes objects a customer is entitled to use according to their license or [[Microsoft Entra]] ID role.
 - **Components**: Consists of PermissionSet objects.
 - **Scope**: Only includes objects within the same app to ensure app boundaries.
 - **Usage**: Only for online versions of Dynamics 365 Business Central.

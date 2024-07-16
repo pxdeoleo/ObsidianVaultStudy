@@ -1,8 +1,8 @@
 > [!summary] 
-> Microsoft Dynamics 365 Business Central defines access through Entitlements and Permissions, now transitioned from database data to AL code, improving security, traceability, and support.
+> Microsoft Dynamics 365 [[Business Central]] defines access through [[Entitlements and Permissions]], now transitioned from database data to AL code, improving security, traceability, and support.
 >
 #### Definitions
-- **Entitlements**: Objects customers can use based on their license or Microsoft Entra ID role.
+- **Entitlements**: Objects customers can use based on their license or [[Microsoft Entra]] ID role.
 - **Permissions**: Objects assigned by an administrator or partner.
 
 > [!info] New Object Types
@@ -21,7 +21,7 @@
 > Treat sensitive data like code to mitigate security and audit risks, adhering to DevOps principles.
 
 > [!tip] Future Monetization
-> New AL objects will enable ISVs to define app capabilities for customers purchasing licenses through Microsoft AppSource.
+> New AL objects will enable ISVs to define app capabilities for customers purchasing licenses through Microsoft [[AppSource]].
 
 #### Tags
 #MicrosoftDynamics365 #BusinessCentral #Entitlements #Permissions #ALLanguage #DevOps #AppSource #ISV

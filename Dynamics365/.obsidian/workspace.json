@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2ebb119f35bdc5a0",
+        "id": "5a6f2339e49b1336",
         "type": "tabs",
         "children": [
           {
-            "id": "aa313fa444b1bbaf",
+            "id": "2c7655dd74868c69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Central App Developer Associate/21. Entitlements and permission sets/Entitlements and Permissions in AL.md",
+                "file": "Business Central App Developer Associate/24. Report design process/Designing Reports in AL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -21,12 +21,38 @@
             }
           },
           {
-            "id": "7f3a615573d34bf6",
+            "id": "18495b2d5ad2019d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Business Central App Developer Associate/21. Entitlements and permission sets/Inherent Permissions.md",
+                "file": "Business Central App Developer Associate/24. Report design process/Report design process and data items.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55e1de668d975ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Central App Developer Associate/24. Report design process/Add columns to report dataset.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d264a12dbd9678bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Business Central App Developer Associate/24. Report design process/Dataset Design Patterns.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -84,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5004348754883,
+    "width": 336.5004348754883,
     "collapsed": true
   },
   "right": {
@@ -101,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Business Central App Developer Associate/21. Entitlements and permission sets/Inherent Permissions.md",
+                "file": "Business Central App Developer Associate/24. Report design process/Dataset Design Patterns.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Business Central App Developer Associate/21. Entitlements and permission sets/Inherent Permissions.md",
+                "file": "Business Central App Developer Associate/24. Report design process/Dataset Design Patterns.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -141,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Business Central App Developer Associate/21. Entitlements and permission sets/Inherent Permissions.md"
+                "file": "Business Central App Developer Associate/24. Report design process/Dataset Design Patterns.md"
               }
             }
           },
@@ -158,7 +184,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 267.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -171,45 +197,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7f3a615573d34bf6",
+  "active": "d264a12dbd9678bb",
   "lastOpenFiles": [
+    "Business Central App Developer Associate/24. Report design process/Add columns to report dataset.md",
+    "Business Central App Developer Associate/24. Report design process/Dataset Design Patterns.md",
+    "Business Central App Developer Associate/24. Report design process/Report design process and data items.md",
+    "Business Central App Developer Associate/24. Report design process/Designing Reports in AL.md",
+    "Business Central App Developer Associate/23. Reporting/Data Items and Columns.md",
+    "Business Central App Developer Associate/22. Debug and deploy extensions/AL Code actions.md",
+    "Business Central App Developer Associate/24. Report design process",
+    "Business Central App Developer Associate/23. Reporting/Report Layouts.md",
+    "Business Central App Developer Associate/23. Reporting/Report labels.md",
+    "Business Central App Developer Associate/23. Reporting/Request Page.md",
+    "Business Central App Developer Associate/23. Reporting/Reports.md",
+    "Business Central App Developer Associate/22. Debug and deploy extensions/Database Performance Insights.md",
+    "Business Central App Developer Associate/23. Reporting",
+    "Business Central App Developer Associate/22. Debug and deploy extensions/Business Central Performance Toolkit.md",
+    "Business Central App Developer Associate/22. Debug and deploy extensions/ALDoc Tool for Generating AL Documentation.md",
+    "Business Central App Developer Associate/22. Debug and deploy extensions/Projects and Workspaces.md",
+    "Business Central App Developer Associate/22. Debug and deploy extensions/SecretText Data Type.md",
+    "Business Central App Developer Associate/22. Debug and deploy extensions/Resource Exposure Policy.md",
+    "Business Central App Developer Associate/22. Debug and deploy extensions/Customizing Business Central Using Extensions.md",
+    "Business Central App Developer Associate/22. Debug and deploy extensions/Rapid Application Development (RAD).md",
+    "Business Central App Developer Associate/22. Debug and deploy extensions/Snapshot Debugging.md",
+    "Business Central App Developer Associate/22. Debug and deploy extensions/Attach debug configurations.md",
+    "Business Central App Developer Associate/22. Debug and deploy extensions/Debugging AL extension on VSCode.md",
+    "Business Central App Developer Associate/22. Debug and deploy extensions/Untitled",
+    "Business Central App Developer Associate/22. Debug and deploy extensions",
     "Business Central App Developer Associate/21. Entitlements and permission sets/Entitlements and Permissions in AL.md",
     "Business Central App Developer Associate/21. Entitlements and permission sets/Inherent Permissions.md",
     "Business Central App Developer Associate/21. Entitlements and permission sets/Entitlements and Permissions.md",
     "Business Central App Developer Associate/21. Entitlements and permission sets/Access Control.md",
     "Business Central App Developer Associate/21. Entitlements and permission sets",
     "Business Central App Developer Associate/20. Pages/Page designer.md",
-    "Business Central App Developer Associate/20. Pages/Page extensions.md",
-    "Business Central App Developer Associate/20. Pages/UsageCategory Property.md",
-    "Business Central App Developer Associate/20. Pages/Rich Text Editing.md",
-    "Business Central App Developer Associate/20. Pages/Pages Overview.md",
-    "Business Central App Developer Associate/20. Pages/Page types.md",
-    "Business Central App Developer Associate/20. Pages/Page properties.md",
-    "Business Central App Developer Associate/20. Pages/Link pages with page parts.md",
-    "Business Central App Developer Associate/20. Pages/Defining Actions.md",
-    "Business Central App Developer Associate/20. Pages/Customizing UI Fields.md",
-    "Business Central App Developer Associate/20. Pages/Control Properties.md",
-    "Business Central App Developer Associate/20. Pages/Build page layout with controls.md",
-    "Business Central App Developer Associate/19. Tables/TableRelation Property.md",
-    "Business Central App Developer Associate/19. Tables/TableExtension Object.md",
-    "Business Central App Developer Associate/19. Tables/Table types.md",
-    "Business Central App Developer Associate/19. Tables/Table extensions.md",
-    "Business Central App Developer Associate/19. Tables/Primary and Secondary keys.md",
-    "Business Central App Developer Associate/19. Tables/Fields and properties.md",
-    "Business Central App Developer Associate/19. Tables/Field Groups Definitions and Usage.md",
-    "Business Central App Developer Associate/19. Tables/Extension Objects in AL.md",
-    "Business Central App Developer Associate/19. Tables/Defining Field Groups.md",
-    "Business Central App Developer Associate/19. Tables/Configure table properties.md",
     "Business Central App Developer Associate/20. Pages",
     "Business Central App Developer Associate/19. Tables",
     "Business Central App Developer Associate/bcentral-notes.zip",
     "Business Central App Developer Associate/18. Development Environment",
     "new_table_new_fields.png",
     "Business Central App Developer Associate/17. Approval Workflows",
-    "Business Central App Developer Associate/16. Workflows",
-    "Business Central App Developer Associate/15. Teams Integration",
-    "Business Central App Developer Associate/14. Outlook integration",
-    "Business Central App Developer Associate/13. Email setup",
     "Untitled.canvas"
   ]
 }
